@@ -20,25 +20,51 @@ I also haven't used git in a while so this is also sort of a guinea pig for re-l
 from google.colab import drive
 drive.mount('/content/drive')
 
-"""### **SQLite Connection**"""
+"""### **SQLite + SQL Magic Connections**"""
 
 # Commented out IPython magic to ensure Python compatibility.
 import pandas as pd
 import seaborn as sns
 import numpy as np
-import csv, sqlite3, os
+import csv, sqlite3, os, glob
 import openpyxl
 
 # Connection Object to establish connection to a sqlite3 database.
 connObj = sqlite3.connect('SPEEDRUNS.db')
+cursorObj = connObj.cursor()
+
+# Assigning the datasets location for SM64 Speedruns to a variable called "repo"
+repo = r'/content/drive/MyDrive/Kaggle/Datasets/SM64 Speedruns/'
+full_path_to_dataset = os.path.join(repo, 'ALL_CATEGORIES.csv')
 
 # Loading the SQL Magic extension to be able to run SQL queries through / within Python code (available via Pandas)
 # %load_ext sql
 # %sql sqlite:///SPEEDRUNS.db
 
-# Cursor Object against connObj to access controller functions like fetchall(), open(), execute(), close(), etc.
-# Don't really need this I think since I'm using SQL Magic, but it may be useful for later.
-cursorObj = connObj.cursor()
+cursorObj.execute('''CREATE TABLE IF NOT EXISTS ALL_CAT_SPEEDRUNS (
+    'Unnamed: 0' int,
+    'id' varchar(50),
+    'place' int,
+    'speedrun_link' varchar(200),
+    'submitted_date' datetime,
+    'primary_time_seconds' float,
+    'real_time_seconds' float,
+    'player_id' varchar(50),
+    'player_name' varchar(50),
+    'player_country' varchar(50),
+    'platform' char(6),
+    'verified' boo
+)''')
+
+# Checking if there is data already in the table (mainly for testing + it's just a sqlite table)
+result = cursorObj.execute('''SELECT COUNT(*) FROM ALL_CAT_SPEEDRUNS''')
+result = cursorObj.fetchone()[0]
+
+# If there is data, delete it
+if result is not None and result > 0:
+    if os.path.isfile(full_path_to_dataset):
+        os.remove(full_path_to_dataset)
+        cursorObj.execute('''DELETE FROM ALL_CAT_SPEEDRUNS''')
 
 """### **Merging Separate .CSV Files Into A Single Pandas DataFrame.**
 
@@ -46,9 +72,6 @@ cursorObj = connObj.cursor()
 
 Included the separate read_csv() calls for each dataset .csv file. I was originally going to do this, and then thought of merging them in VBA for fun, but then wanted to do it in Python.
 """
-
-# Assigning the datasets location for SM64 Speedruns to a variable called "repo"
-repo = r'/content/drive/MyDrive/Kaggle/Datasets/SM64 Speedruns/'
 
 # Lists files within the specified directory, in this case "repo".
 files_in_repo = os.listdir(repo)
@@ -105,7 +128,6 @@ for csv in csv_files:
 """
 
 # Concat all data into a single DataFrame
-
 complete_df = pd.concat(df_list, ignore_index=True)
 
 """---
@@ -113,12 +135,11 @@ complete_df = pd.concat(df_list, ignore_index=True)
 ### **Cleansing / Restructuring Data With *NumPy* And *Pandas***
 """
 
-full_path_to_dataset = os.path.join(repo, 'ALL_CATEGORIES.csv')
-
 # Save the final result to a new .csv file (appears in the G Drive folder after 15-30 sec).
 complete_df.to_csv(full_path_to_dataset, index=False)
 
 allCategoriesDF = pd.read_csv(full_path_to_dataset)
+
 # Loading the dataframe into the SPEEDRUNS database using the connObj. Specified a table name of "ALL_CAT_SPEEDRUNS".
 allCategoriesDF.to_sql('ALL_CAT_SPEEDRUNS', connObj, if_exists='replace', index=False)
 
