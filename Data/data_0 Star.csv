@@ -1,502 +1,260 @@
-﻿RUN_ID,Category,id,place,speedrun_link,submitted_date,primary_time_seconds,real_time_seconds,player_id,player_name,player_country,platform,verified
-1,0 Star,m738kdey,1,https://www.speedrun.com/sm64/run/m738kdey,2023-10-21T08:50:34Z,5808,5808,j2ylqn68,Karin,Japan,N64,Yes
-2,0 Star,yjwgkr7m,2,https://www.speedrun.com/sm64/run/yjwgkr7m,2023-10-22T09:45:36Z,5823,5823,jo2mr9n8,marlene,,N64,Yes
-3,0 Star,y2kedw7y,3,https://www.speedrun.com/sm64/run/y2kedw7y,2023-11-23T15:29:50Z,5837,5837,kj9yz0wx,Liam,United States,N64,Yes
-4,0 Star,yoo3w37y,4,https://www.speedrun.com/sm64/run/yoo3w37y,2023-10-14T00:11:51Z,5854,5854,48gev4rj,puncayshun,United States,N64,Yes
-5,0 Star,zx81j5gm,5,https://www.speedrun.com/sm64/run/zx81j5gm,2022-11-18T22:01:40Z,5855,5855,kjprmwk8,Weegee,United States,N64,Yes
-6,0 Star,z5kvqwdz,6,https://www.speedrun.com/sm64/run/z5kvqwdz,2023-11-13T15:12:15Z,5860,5860,kj9lkowj,batora,Japan,N64,Yes
-7,0 Star,zgd6pl0z,7,https://www.speedrun.com/sm64/run/zgd6pl0z,2022-03-01T19:41:14Z,5870,5870,v814mkp8,cheese,Spain,N64,Yes
-8,0 Star,yv85jw6m,8,https://www.speedrun.com/sm64/run/yv85jw6m,2023-03-22T19:52:58Z,5874,5874,8wkzer38,Parsee02,Japan,N64,Yes
-9,0 Star,zg8doeny,9,https://www.speedrun.com/sm64/run/zg8doeny,2023-11-11T21:54:54Z,5876,5876,v81ddq38,Smau,Finland,N64,Yes
-10,0 Star,y869knnm,10,https://www.speedrun.com/sm64/run/y869knnm,2023-05-10T15:58:01Z,5887,5887,zx77v7rx,simply,United States,N64,Yes
-11,0 Star,yvv98n4y,11,https://www.speedrun.com/sm64/run/yvv98n4y,2023-10-10T22:31:16Z,5890,5890,1xyd46wx,Kally,,N64,Yes
-12,0 Star,mejex90y,12,https://www.speedrun.com/sm64/run/mejex90y,2022-01-28T00:22:29Z,5912,5912,zxzk1q9x,ikori_o,Japan,N64,No
-13,0 Star,yjwx5p3m,13,https://www.speedrun.com/sm64/run/yjwx5p3m,2023-11-09T05:36:53Z,5933,5933,jmolpwo8,Raisn,Germany,EMU,Yes
-14,0 Star,yj1660ny,14,https://www.speedrun.com/sm64/run/yj1660ny,2021-01-30T17:28:58Z,5934,5934,qxk45r6j,hokorobi,Japan,N64,Yes
-15,0 Star,m3rw82gm,14,https://www.speedrun.com/sm64/run/m3rw82gm,2021-06-26T23:42:27Z,5934,5934,zx76v0j7,Taggo,Sweden,N64,Yes
-16,0 Star,zne7k38z,16,https://www.speedrun.com/sm64/run/zne7k38z,2023-11-07T20:09:04Z,5937,5937,e8e6edj0,GothicLogic,United Kingdom,N64,Yes
-17,0 Star,yo6l0jjy,17,https://www.speedrun.com/sm64/run/yo6l0jjy,2021-09-24T14:00:24Z,5940,5940,98rp5e6j,Paracusia,Australia,N64,Yes
-18,0 Star,yoo9q01y,18,https://www.speedrun.com/sm64/run/yoo9q01y,2023-10-19T19:03:35Z,5947,5947,zx7gnyx7,Dwhatever,Germany,N64,Yes
-19,0 Star,yllq19xy,19,https://www.speedrun.com/sm64/run/yllq19xy,2023-10-25T14:58:11Z,5950,5950,7j40gpw8,KANNO,,N64,Yes
-20,0 Star,ywnd3wpy,20,https://www.speedrun.com/sm64/run/ywnd3wpy,2023-10-10T05:58:08Z,5960,5960,pj0zz298,BeastAssassin67,United States,N64,Yes
-21,0 Star,me9gv8qz,21,https://www.speedrun.com/sm64/run/me9gv8qz,2021-03-10T04:46:11Z,5968,5968,1xyl49zj,Nebula,Australia,EMU,Yes
-22,0 Star,m72kv49z,22,https://www.speedrun.com/sm64/run/m72kv49z,2023-04-15T13:04:03Z,5971,5971,kj92gmv8,Dowsky,United States,N64,Yes
-23,0 Star,z5do6ldm,23,https://www.speedrun.com/sm64/run/z5do6ldm,2021-08-01T17:03:16Z,5979,5979,dx35192j,Dezanig,Brazil,N64,Yes
-24,0 Star,zgdl76vz,24,https://www.speedrun.com/sm64/run/zgdl76vz,2022-02-12T10:54:57Z,5991,5991,kjp9p28q,Sigotu,Poland,EMU,Yes
-25,0 Star,yvpqvdoy,24,https://www.speedrun.com/sm64/run/yvpqvdoy,2023-06-23T01:30:46Z,5991,5991,j03z503j,Taki,Canada,N64,Yes
-26,0 Star,znqg927z,26,https://www.speedrun.com/sm64/run/znqg927z,2022-10-23T00:57:58Z,5997,5997,v815edqj,Terji,Faroe Islands,N64,Yes
-27,0 Star,y8kd80ny,27,https://www.speedrun.com/sm64/run/y8kd80ny,2023-10-25T08:09:19Z,5998,5998,j5vgqlw8,crazywhw,United States,N64,Yes
-28,0 Star,zxoron8z,28,https://www.speedrun.com/sm64/run/zxoron8z,2021-11-14T09:33:35Z,6003,6003,qxk3o980,nindiddeh,United States,N64,Yes
-29,0 Star,mr1nr34z,29,https://www.speedrun.com/sm64/run/mr1nr34z,2021-05-17T00:31:43Z,6012,6012,kjpqy9yx,Gainai,Germany,N64,Yes
-30,0 Star,mk76r9vy,30,https://www.speedrun.com/sm64/run/mk76r9vy,2021-04-05T01:30:00Z,6021,6021,dx31lw78,RockChalk19,United States,N64,Yes
-31,0 Star,y6x94jjy,30,https://www.speedrun.com/sm64/run/y6x94jjy,2022-08-31T01:01:12Z,6021,6021,qj2w3rpj,BlueBob,Canada,N64,Yes
-32,0 Star,zneoq87z,32,https://www.speedrun.com/sm64/run/zneoq87z,2023-10-17T11:19:35Z,6023,6023,8v5253yj,taciturn,United States,EMU,Yes
-33,0 Star,mr2qg0gy,33,https://www.speedrun.com/sm64/run/mr2qg0gy,2023-09-17T17:35:31Z,6024,6024,18q3zwqj,Dekudude,England,N64,Yes
-34,0 Star,ywklo8py,34,https://www.speedrun.com/sm64/run/ywklo8py,2021-11-28T17:32:01Z,6025,6025,18q9317j,kagami,Japan,N64,Yes
-35,0 Star,me0ejn0z,35,https://www.speedrun.com/sm64/run/me0ejn0z,2023-12-01T01:28:40Z,6028,6028,j0n10kw8,jaquarium,United States,N64,Yes
-36,0 Star,znq5508z,36,https://www.speedrun.com/sm64/run/znq5508z,2022-10-30T11:34:48Z,6040,6040,pj0o24rj,Aleph64,Germany,VC,Yes
-37,0 Star,m756d39z,37,https://www.speedrun.com/sm64/run/m756d39z,2020-11-12T00:58:51Z,6043,6043,zxzpz50j,Fafel,Japan,N64,Yes
-38,0 Star,mel2k72z,38,https://www.speedrun.com/sm64/run/mel2k72z,2023-08-03T18:58:44Z,6049,6049,xyrqdwmj,Zhilkan,Spain,EMU,Yes
-39,0 Star,y625xj1z,39,https://www.speedrun.com/sm64/run/y625xj1z,2023-05-23T09:52:28Z,6059,6059,18vkpkyj,KobrahCJ,United States,N64,Yes
-40,0 Star,y8kr1x5y,40,https://www.speedrun.com/sm64/run/y8kr1x5y,2023-10-08T11:46:26Z,6075,6075,qjn77418,sorichi,Japan,N64,No
-41,0 Star,y4k79enm,41,https://www.speedrun.com/sm64/run/y4k79enm,2023-10-29T17:15:23Z,6088,6088,8r7m4ldj,itsbeeve,United States,N64,Yes
-42,0 Star,z0xp87jz,42,https://www.speedrun.com/sm64/run/z0xp87jz,2023-11-19T14:30:07Z,6096,6096,8lr0m1v8,Avatar,United States,N64,Yes
-43,0 Star,ywr0l22m,43,https://www.speedrun.com/sm64/run/ywr0l22m,2023-06-08T00:15:19Z,6097,6097,5j5w6qnj,kryptic80,United States,N64,Yes
-44,0 Star,mk5qk71m,44,https://www.speedrun.com/sm64/run/mk5qk71m,2021-10-04T11:55:08Z,6101,6101,18vk21yj,Tabascoth,Austria,N64,Yes
-45,0 Star,zp36e98m,45,https://www.speedrun.com/sm64/run/zp36e98m,2021-03-09T20:10:54Z,6103,6103,kjpqrr4x,Goldrush,Japan,N64,Yes
-46,0 Star,z0jqn4jy,46,https://www.speedrun.com/sm64/run/z0jqn4jy,2023-07-26T23:29:57Z,6114,6114,x353dr7j,Finnii602,Germany,VC,Yes
-47,0 Star,mro1j54m,47,https://www.speedrun.com/sm64/run/mro1j54m,2023-01-11T18:33:09Z,6115,6115,qxkm6mj0,Kyman,Canada,N64,Yes
-48,0 Star,z1qk139y,48,https://www.speedrun.com/sm64/run/z1qk139y,2023-02-21T03:49:51Z,6122,6122,kj9egwv8,Afrodafro,Norway,N64,Yes
-49,0 Star,z1kp9pjy,49,https://www.speedrun.com/sm64/run/z1kp9pjy,2023-11-19T00:29:43Z,6124,6124,pj0l653j,FailmanFlo,Germany,N64,Yes
-50,0 Star,6yj9rdzd,50,https://www.speedrun.com/sm64/run/6yj9rdzd,,6129,6129,pj02nmw8,nero_x2,Japan,N64,Yes
-51,0 Star,yvj908oy,51,https://www.speedrun.com/sm64/run/yvj908oy,2018-08-11T15:02:19Z,6130,6130,qjop4q3x,groovy31,Finland,N64,Yes
-52,0 Star,yl99de3y,52,https://www.speedrun.com/sm64/run/yl99de3y,2017-05-04T02:36:10Z,6133,6133,5j52e9qj,GUTOA,Japan,N64,Yes
-53,0 Star,zx722n5y,53,https://www.speedrun.com/sm64/run/zx722n5y,2022-04-27T03:54:06Z,6134,6134,v8lq4k7x,badroenis,United States,N64,Yes
-54,0 Star,z1kr29gy,54,https://www.speedrun.com/sm64/run/z1kr29gy,2023-10-24T23:07:48Z,6142,6142,98r475gj,Blakeo2,England,N64,Yes
-55,0 Star,yj3r6k7z,55,https://www.speedrun.com/sm64/run/yj3r6k7z,2020-02-12T11:57:28Z,6143,6143,5j5v2nz8,Shans,Australia,EMU,No
-56,0 Star,yvjrweoy,56,https://www.speedrun.com/sm64/run/yvjrweoy,2018-11-03T07:58:08Z,6144,6144,0jm7n3nj,phantaxx,United States,N64,Yes
-57,0 Star,y9v5v92m,56,https://www.speedrun.com/sm64/run/y9v5v92m,2022-04-22T21:39:52Z,6144,6144,y8d2v2mj,ChipGroove,United States,N64,Yes
-58,0 Star,y91ndn2m,58,https://www.speedrun.com/sm64/run/y91ndn2m,2020-10-22T14:39:22Z,6146,6146,0jml0zy8,akki,Japan,N64,Yes
-59,0 Star,zqd1lerm,59,https://www.speedrun.com/sm64/run/zqd1lerm,2023-10-29T03:52:08Z,6147,6147,qjonw238,EthanRTA,United States,N64,Yes
-60,0 Star,emk5kgxm,60,https://www.speedrun.com/sm64/run/emk5kgxm,2015-12-07T00:13:54Z,6148,6148,zxzvprjq,toastrider91,Chad,N64,Yes
-61,0 Star,z5pdjrgm,61,https://www.speedrun.com/sm64/run/z5pdjrgm,2023-06-14T22:08:08Z,6153,6153,qxk4wo6j,saksdal,United States,N64,Yes
-62,0 Star,zx4e5lky,62,https://www.speedrun.com/sm64/run/zx4e5lky,2019-05-12T05:10:26Z,6162,6162,kj9ylvx4,V1RO,Canada,N64,Yes
-63,0 Star,z5dqn9em,63,https://www.speedrun.com/sm64/run/z5dqn9em,2021-11-23T03:03:25Z,6166,6166,98r70w3j,Heisenburger,United States,N64,Yes
-64,0 Star,zxnr2e5m,64,https://www.speedrun.com/sm64/run/zxnr2e5m,2023-04-05T09:17:31Z,6167,6167,1xy1oozx,ringo792,United States,N64,Yes
-65,0 Star,yle625rz,65,https://www.speedrun.com/sm64/run/yle625rz,2022-02-05T16:21:44Z,6168,6168,86nrm5qx,taylor3311,Japan,N64,Yes
-66,0 Star,m73xro5y,65,https://www.speedrun.com/sm64/run/m73xro5y,2023-11-27T19:13:50Z,6168,6168,qjor2nj6,Odme_,United States,VC,Yes
-67,0 Star,mk0g5q1z,67,https://www.speedrun.com/sm64/run/mk0g5q1z,2023-06-10T07:28:41Z,6171,6171,8geyo77j,Leysauce,United States,N64,Yes
-68,0 Star,yvr5398z,68,https://www.speedrun.com/sm64/run/yvr5398z,2022-07-09T22:42:31Z,6172,6172,8rpp0egj,Bluth,United States,N64,No
-69,0 Star,m37g7q4z,69,https://www.speedrun.com/sm64/run/m37g7q4z,2021-08-18T20:40:07Z,6173,6173,dx3q74qj,chubby,Norway,N64,Yes
-70,0 Star,y4o941kz,70,https://www.speedrun.com/sm64/run/y4o941kz,2023-04-29T11:09:15Z,6175,6175,x359w0kj,mickyyyr,Australia,N64,Yes
-71,0 Star,ydjr9vvy,71,https://www.speedrun.com/sm64/run/ydjr9vvy,2023-06-09T21:21:59Z,6177,6177,v816eo5x,Soda,,N64,Yes
-72,0 Star,ydj66ljy,72,https://www.speedrun.com/sm64/run/ydj66ljy,2023-05-14T06:10:19Z,6181,6181,1xyw6wn8,markinator99,United States,N64,Yes
-73,0 Star,z5p8qnnm,73,https://www.speedrun.com/sm64/run/z5p8qnnm,2023-07-24T07:47:57Z,6188,6188,8d4ywn58,vitroncio,Brazil,N64,Yes
-74,0 Star,yor9381y,74,https://www.speedrun.com/sm64/run/yor9381y,2022-01-02T05:15:51Z,6189,6189,xzld0398,Xx_Mario_xX,Japan,N64,Yes
-75,0 Star,y9l7xxny,75,https://www.speedrun.com/sm64/run/y9l7xxny,2021-12-08T14:23:06Z,6194,6194,1xy05zjr,turara32767,Japan,N64,Yes
-76,0 Star,m3kok06y,76,https://www.speedrun.com/sm64/run/m3kok06y,2023-09-22T00:27:46Z,6195,6195,xk4zke6j,ElDeve,Argentina,EMU,No
-77,0 Star,mr4jrggz,77,https://www.speedrun.com/sm64/run/mr4jrggz,2021-01-13T23:44:27Z,6196,6196,zxz97kn8,Drogie,Switzerland,N64,Yes
-78,0 Star,pm3wjwy0,78,https://www.speedrun.com/sm64/run/pm3wjwy0,,6202,6202,dx351yqj,siglemic,United States,VC,No
-79,0 Star,nz1e5l7y,79,https://www.speedrun.com/sm64/run/nz1e5l7y,2017-02-22T13:48:28Z,6203,6203,,,,N64,Yes
-80,0 Star,zgpje8jz,80,https://www.speedrun.com/sm64/run/zgpje8jz,2022-07-03T07:19:04Z,6204,6204,v8lem77x,Frost_Byte,United States,N64,Yes
-81,0 Star,y2dn2e7z,81,https://www.speedrun.com/sm64/run/y2dn2e7z,2020-12-18T08:13:58Z,6205,6205,qjnz771j,jane_dair,United States,N64,Yes
-82,0 Star,yvqnqw4m,82,https://www.speedrun.com/sm64/run/yvqnqw4m,2022-02-23T23:42:12Z,6208,6208,8gr94w1x,tomkabs,Canada,N64,Yes
-83,0 Star,zq3nkk8y,83,https://www.speedrun.com/sm64/run/zq3nkk8y,2019-03-17T03:04:04Z,6210,6210,,,,N64,Yes
-84,0 Star,zn0r3d9y,83,https://www.speedrun.com/sm64/run/zn0r3d9y,2021-08-08T21:22:55Z,6210,6210,48gqo07j,darkdog47,United States,N64,Yes
-85,0 Star,y8kenrdy,83,https://www.speedrun.com/sm64/run/y8kenrdy,2023-11-04T18:47:04Z,6210,6210,qjo3kk7j,Fuff,Canada,N64,Yes
-86,0 Star,y412x2ny,86,https://www.speedrun.com/sm64/run/y412x2ny,2019-08-07T00:53:46Z,6211,6211,dx35yzej,TriforceTK,United States,EMU,Yes
-87,0 Star,z15wpdwy,87,https://www.speedrun.com/sm64/run/z15wpdwy,2020-08-31T22:05:01Z,6212,6212,o86nzl0x,Xoofey,United States,N64,Yes
-88,0 Star,y602kr0y,87,https://www.speedrun.com/sm64/run/y602kr0y,2022-06-17T08:25:19Z,6212,6212,kjpoery8,Falcon,Canada,N64,Yes
-89,0 Star,zg8pn60y,87,https://www.speedrun.com/sm64/run/zg8pn60y,2023-11-14T15:51:11Z,6212,6212,xyreddzj,squimmie,United States,N64,Yes
-90,0 Star,dy4jlnyl,90,https://www.speedrun.com/sm64/run/dy4jlnyl,,6217,6217,pj0e6nm8,hyassin27,Canada,VC,Yes
-91,0 Star,zpgwq8vz,91,https://www.speedrun.com/sm64/run/zpgwq8vz,2023-02-15T21:15:10Z,6218,6218,xyrdnrnj,Chemus,Brazil,EMU,Yes
-92,0 Star,zxw80dkm,92,https://www.speedrun.com/sm64/run/zxw80dkm,2023-11-26T22:52:25Z,6225,6225,98rl4w38,HorrorDoesSpeedRuns,United States,N64,Yes
-93,0 Star,yd2g2rqm,93,https://www.speedrun.com/sm64/run/yd2g2rqm,2023-12-02T17:34:05Z,6226,6226,8q316z7j,dista,United States,N64,Yes
-94,0 Star,emk4np5y,94,https://www.speedrun.com/sm64/run/emk4np5y,2015-01-28T18:51:49Z,6227,6227,qjo2pq38,Haliinen,Sweden,N64,Yes
-95,0 Star,z1x23o7m,95,https://www.speedrun.com/sm64/run/z1x23o7m,2021-09-04T17:35:29Z,6232,6232,qjoe6e86,Widdit,United States,N64,Yes
-96,0 Star,1zq2q5zl,96,https://www.speedrun.com/sm64/run/1zq2q5zl,,6233,6233,dx39wqxl,CpKaka,Sweden,VC,Yes
-97,0 Star,znqd8e3z,97,https://www.speedrun.com/sm64/run/znqd8e3z,2022-11-20T17:30:58Z,6234,6234,pj0v59xw,Wilko,Germany,N64,Yes
-98,0 Star,7z0q909m,98,https://www.speedrun.com/sm64/run/7z0q909m,2016-09-14T22:27:15Z,6235,6235,48gryyxp,Flippy_o,Denmark,N64,Yes
-99,0 Star,pydqn8xm,99,https://www.speedrun.com/sm64/run/pydqn8xm,2015-01-07T22:46:28Z,6240,6240,,,,N64,Yes
-100,0 Star,zpp810nz,100,https://www.speedrun.com/sm64/run/zpp810nz,2023-10-31T17:38:52Z,6243,6243,8e6vr17j,piegolds,Australia,EMU,Yes
-101,0 Star,me9gp99z,101,https://www.speedrun.com/sm64/run/me9gp99z,2021-03-13T10:01:17Z,6248,6248,0jm36qe8,Xein64,Germany,N64,Yes
-102,0 Star,zx39w3kz,101,https://www.speedrun.com/sm64/run/zx39w3kz,2023-04-27T14:37:39Z,6248,6248,kjpqyw0x,Gerbiez,Canada,N64,Yes
-103,0 Star,y6qdn8pz,103,https://www.speedrun.com/sm64/run/y6qdn8pz,2023-10-25T00:13:12Z,6251,6251,,,,N64,No
-104,0 Star,y81kr2xz,104,https://www.speedrun.com/sm64/run/y81kr2xz,2019-11-29T19:45:30Z,6256,6256,kj9vd9ox,JMill,United States,EMU,Yes
-105,0 Star,znv1j98m,105,https://www.speedrun.com/sm64/run/znv1j98m,2023-06-11T05:29:52Z,6262,6262,jm3lqln8,Mauir,Chile,EMU,Yes
-106,0 Star,z5oo8pgy,106,https://www.speedrun.com/sm64/run/z5oo8pgy,2017-05-04T08:26:00Z,6269,6269,,,,N64,Yes
-107,0 Star,mk3p87lz,106,https://www.speedrun.com/sm64/run/mk3p87lz,2020-07-10T15:49:00Z,6269,6269,v81q6w3j,bebopbandit,United States,N64,Yes
-108,0 Star,y27e2p6z,108,https://www.speedrun.com/sm64/run/y27e2p6z,2021-09-18T23:59:49Z,6283,6283,x35r767j,Schnoz64,United States,N64,Yes
-109,0 Star,z0p145ey,108,https://www.speedrun.com/sm64/run/z0p145ey,2022-04-25T08:14:18Z,6283,6283,qxkvqp2j,PKT_Distinct,France,N64,Yes
-110,0 Star,dy41lqny,110,https://www.speedrun.com/sm64/run/dy41lqny,2015-04-18T05:23:37Z,6285,6285,qxkovg98,gohanie,Japan,N64,Yes
-111,0 Star,zpq09dgy,110,https://www.speedrun.com/sm64/run/zpq09dgy,2017-05-20T11:05:15Z,6285,6285,68wwn48g,Mitagi,Japan,N64,Yes
-112,0 Star,zxl0l08z,112,https://www.speedrun.com/sm64/run/zxl0l08z,2022-03-01T14:54:37Z,6288,6288,qj2y1r68,JJsrl,United States,N64,Yes
-113,0 Star,z5e0g2dz,113,https://www.speedrun.com/sm64/run/z5e0g2dz,2023-01-09T06:49:13Z,6289,6289,jp4q645j,GoodGrieth,,N64,Yes
-114,0 Star,yold677y,113,https://www.speedrun.com/sm64/run/yold677y,2023-02-05T16:05:12Z,6289,6289,xz79p1nj,tanepota,Japan,N64,Yes
-115,0 Star,oy2w65yd,115,https://www.speedrun.com/sm64/run/oy2w65yd,,6291,6291,,,,N64,Yes
-116,0 Star,0y670q6m,116,https://www.speedrun.com/sm64/run/0y670q6m,2014-12-24T07:05:00Z,6296,6296,18ql07jn,luke994,England,N64,No
-117,0 Star,zne3gr3z,117,https://www.speedrun.com/sm64/run/zne3gr3z,2023-10-12T20:04:22Z,6300,6300,0jmo9zn8,Redmoss,United States,N64,Yes
-118,0 Star,z0pl33ey,118,https://www.speedrun.com/sm64/run/z0pl33ey,2022-06-02T12:13:57Z,6306,6306,j26d1ynx,nidamario,Japan,N64,No
-119,0 Star,y422jeqm,119,https://www.speedrun.com/sm64/run/y422jeqm,2021-02-04T03:54:41Z,6309,6309,pj06y3jw,Butterlord,Canada,N64,Yes
-120,0 Star,m3xpl9wm,120,https://www.speedrun.com/sm64/run/m3xpl9wm,2022-11-17T09:36:15Z,6310,6310,qjo1ovnx,FireGoesFast,Australia,VC,Yes
-121,0 Star,zpq1onny,121,https://www.speedrun.com/sm64/run/zpq1onny,2017-08-27T21:54:38Z,6317,6317,18q3r20j,Animazism,Wales,N64,Yes
-122,0 Star,yvgg194y,122,https://www.speedrun.com/sm64/run/yvgg194y,2017-04-27T00:25:12Z,6318,6318,y8dw9zgj,Alkobakknarko,Norway,N64,Yes
-123,0 Star,y62516pz,123,https://www.speedrun.com/sm64/run/y62516pz,2023-05-26T08:29:27Z,6321,6321,j4rg3z58,CheesyLeech,United States,N64,No
-124,0 Star,mk0o0v1z,123,https://www.speedrun.com/sm64/run/mk0o0v1z,2023-08-01T05:29:06Z,6321,6321,98ryllqj,Fizz,United States,VC,Yes
-125,0 Star,7ylx2nyp,125,https://www.speedrun.com/sm64/run/7ylx2nyp,,6327,6327,y8dg7l86,Noizeeh,Sweden,N64,Yes
-126,0 Star,y81ejkxz,126,https://www.speedrun.com/sm64/run/y81ejkxz,2019-09-01T09:01:26Z,6328,6328,0jmvmzj1,protoman5,United States,N64,Yes
-127,0 Star,y8j93qnz,127,https://www.speedrun.com/sm64/run/y8j93qnz,2021-12-11T16:37:57Z,6329,6329,98r5d3wx,dinkyslinky,Norway,N64,Yes
-128,0 Star,z57l00dm,128,https://www.speedrun.com/sm64/run/z57l00dm,2020-01-10T22:59:47Z,6331,6331,qj25v3lj,m_vitor,Brazil,N64,Yes
-129,0 Star,ywd43kpz,128,https://www.speedrun.com/sm64/run/ywd43kpz,2020-09-29T18:40:47Z,6331,6331,qj2eenjk,Darrow25,QuÃ©bec,VC,Yes
-130,0 Star,y4g25eny,130,https://www.speedrun.com/sm64/run/y4g25eny,2023-01-05T18:22:31Z,6334,6334,j0nv6wm8,shikibi_hiiro,Japan,N64,Yes
-131,0 Star,z5edp95z,130,https://www.speedrun.com/sm64/run/z5edp95z,2023-01-21T05:19:30Z,6334,6334,zxzl7508,Seba54,Chile,EMU,Yes
-132,0 Star,yollr67y,132,https://www.speedrun.com/sm64/run/yollr67y,2023-02-11T17:42:29Z,6335,6335,pj0zm38w,Geenix,United States,N64,Yes
-133,0 Star,zpgjogxz,132,https://www.speedrun.com/sm64/run/zpgjogxz,2023-04-15T02:42:26Z,6335,6335,v8lgdovj,Drac,Brazil,N64,Yes
-134,0 Star,z1o1glgm,134,https://www.speedrun.com/sm64/run/z1o1glgm,2020-09-22T05:04:17Z,6337,6337,7j41p5j1,SuperViperT302,United States,N64,Yes
-135,0 Star,mrnl8gdy,135,https://www.speedrun.com/sm64/run/mrnl8gdy,2021-09-26T20:39:50Z,6338,6338,kj9pq2ox,bromario28,United States,N64,Yes
-136,0 Star,ywpljg0z,136,https://www.speedrun.com/sm64/run/ywpljg0z,2019-05-06T05:51:07Z,6339,6339,o862d3xz,Biinny,England,N64,Yes
-137,0 Star,y2gpvk5z,137,https://www.speedrun.com/sm64/run/y2gpvk5z,2023-06-26T13:38:12Z,6346,6346,v810d5rx,SubmarineCpt,United States,EMU,Yes
-138,0 Star,y2jp919z,138,https://www.speedrun.com/sm64/run/y2jp919z,2023-01-29T07:21:11Z,6349,6349,8ge2ee2j,incha4416,,N64,Yes
-139,0 Star,z0j2rwey,138,https://www.speedrun.com/sm64/run/z0j2rwey,2023-08-15T14:54:36Z,6349,6349,1xyprdvx,packerzilla,United States,N64,Yes
-140,0 Star,8yvxeozo,140,https://www.speedrun.com/sm64/run/8yvxeozo,,6352,6352,,,,N64,No
-141,0 Star,ywk2xe9y,141,https://www.speedrun.com/sm64/run/ywk2xe9y,2021-10-30T04:33:22Z,6356,6356,48g0d97x,latyy,United States,N64,Yes
-142,0 Star,y629wgjz,142,https://www.speedrun.com/sm64/run/y629wgjz,2023-06-18T19:32:51Z,6357,6357,jmpp51ej,amsixx,Spain,EMU,Yes
-143,0 Star,m7qqg74z,143,https://www.speedrun.com/sm64/run/m7qqg74z,2019-06-26T10:45:08Z,6358,6358,qj2pngn8,Beuca,United States,N64,Yes
-144,0 Star,y98e262z,143,https://www.speedrun.com/sm64/run/y98e262z,2023-08-03T23:36:31Z,6358,6358,e8ezrq68,Yale,United States,N64,Yes
-145,0 Star,zgngqj0y,145,https://www.speedrun.com/sm64/run/zgngqj0y,2017-08-22T18:47:52Z,6359,6359,,,,N64,Yes
-146,0 Star,m3l9v26m,146,https://www.speedrun.com/sm64/run/m3l9v26m,2022-11-30T16:12:27Z,6360,6360,jo3r970j,Elva,Japan,N64,Yes
-147,0 Star,m3r9j8wm,147,https://www.speedrun.com/sm64/run/m3r9j8wm,2021-04-12T07:25:37Z,6367,6367,68w040qj,Creator_Destroyer,United States,N64,Yes
-148,0 Star,z13jp5gm,148,https://www.speedrun.com/sm64/run/z13jp5gm,2017-06-09T07:15:40Z,6368,6368,kjp6pz58,Gana64,Japan,N64,Yes
-149,0 Star,yvg5v18y,148,https://www.speedrun.com/sm64/run/yvg5v18y,2018-03-13T05:19:13Z,6368,6368,kj95gwo8,arwyMilo,Canada,N64,No
-150,0 Star,y9vgnqkm,150,https://www.speedrun.com/sm64/run/y9vgnqkm,2022-07-15T00:36:03Z,6369,6369,8rpv21dj,ZeusSM64,New Zealand,EMU,No
-151,0 Star,z0p45eoy,151,https://www.speedrun.com/sm64/run/z0p45eoy,2022-07-18T19:45:25Z,6376,6376,1xy5r7w8,ClintStevens,United States,N64,Yes
-152,0 Star,yd65wgvz,152,https://www.speedrun.com/sm64/run/yd65wgvz,2019-07-12T02:41:40Z,6377,6377,zxzn5rex,joerandom,United States,EMU,Yes
-153,0 Star,zxvg0oqy,153,https://www.speedrun.com/sm64/run/zxvg0oqy,2017-08-28T03:13:12Z,6379,6379,18vpmn8l,ZDeztroyerz,,N64,Yes
-154,0 Star,znv0e09m,153,https://www.speedrun.com/sm64/run/znv0e09m,2023-06-17T09:33:56Z,6379,6379,5j5097nx,SolErikaB,Sweden,EMU,Yes
-155,0 Star,mkgv28xy,155,https://www.speedrun.com/sm64/run/mkgv28xy,2021-06-03T16:35:00Z,6380,6380,qjo9ypnj,OkamiBW,United States,VC,Yes
-156,0 Star,ylnre02z,156,https://www.speedrun.com/sm64/run/ylnre02z,2023-01-20T00:56:59Z,6384,6384,xk4g0m9j,Dezod,United States,N64,Yes
-157,0 Star,zg266gny,157,https://www.speedrun.com/sm64/run/zg266gny,2023-03-20T14:52:55Z,6386,6386,8qz5n7q8,Gravydos,United States,N64,Yes
-158,0 Star,zx7w3pky,158,https://www.speedrun.com/sm64/run/zx7w3pky,2022-06-20T05:39:18Z,6393,6393,zx7gkrx7,alaris,United States,N64,No
-159,0 Star,mrl1lk8m,159,https://www.speedrun.com/sm64/run/mrl1lk8m,2023-06-11T09:16:43Z,6399,6399,8g5y277j,ReallyBadDK,United States,N64,Yes
-160,0 Star,y86o6e5m,160,https://www.speedrun.com/sm64/run/y86o6e5m,2023-08-01T04:21:35Z,6400,6400,8w139m3x,oatslice,Australia,N64,Yes
-161,0 Star,y8qwlnwy,161,https://www.speedrun.com/sm64/run/y8qwlnwy,2018-01-22T19:47:28Z,6407,6407,98r2l63x,MrSpeedrun,Germany,N64,Yes
-162,0 Star,y2gnee5z,162,https://www.speedrun.com/sm64/run/y2gnee5z,2023-07-31T19:14:01Z,6409,6409,jo3v1n0j,Sabxander,Romania,EMU,Yes
-163,0 Star,pzgo1em2,163,https://www.speedrun.com/sm64/run/pzgo1em2,,6411,6411,18vmme8l,pobo,United States,N64,Yes
-164,0 Star,ylnnj2rz,164,https://www.speedrun.com/sm64/run/ylnnj2rz,2023-02-13T23:38:46Z,6413,6413,pj0vn53x,Apeduden,Norway,N64,Yes
-165,0 Star,ydg2j4vy,164,https://www.speedrun.com/sm64/run/ydg2j4vy,2023-02-24T01:01:53Z,6413,6413,zxzn3w9x,spener1122,Canada,N64,Yes
-166,0 Star,zn702v8m,166,https://www.speedrun.com/sm64/run/zn702v8m,2022-01-12T18:13:34Z,6414,6414,8geo5gpj,Unknown1470,United States,EMU,Yes
-167,0 Star,zx2e5k5m,167,https://www.speedrun.com/sm64/run/zx2e5k5m,2020-09-03T11:50:34Z,6416,6416,kj93d27j,watapachi67,Japan,N64,Yes
-168,0 Star,y258d37y,168,https://www.speedrun.com/sm64/run/y258d37y,2020-07-29T17:02:04Z,6422,6422,kj9z6w84,Fuzzyness,England,N64,Yes
-169,0 Star,9mel5p2z,169,https://www.speedrun.com/sm64/run/9mel5p2z,2016-07-01T05:04:25Z,6424,6424,68w134xg,trevor107,Canada,N64,Yes
-170,0 Star,7yl8nq3z,169,https://www.speedrun.com/sm64/run/7yl8nq3z,2017-02-28T04:55:27Z,6424,6424,v8lz34xm,Shy,Finland,N64,Yes
-171,0 Star,y2pp6q5z,171,https://www.speedrun.com/sm64/run/y2pp6q5z,2022-06-01T04:36:08Z,6427,6427,zx7zw1r8,egaSyeliR,United States,N64,Yes
-172,0 Star,m73dd7wy,172,https://www.speedrun.com/sm64/run/m73dd7wy,2023-10-24T02:07:18Z,6431,6431,jpm2m44j,happydude124,United States,EMU,Yes
-173,0 Star,yjp04gny,173,https://www.speedrun.com/sm64/run/yjp04gny,2022-07-22T06:11:34Z,6435,6435,x354692j,manxmud,United States,N64,Yes
-174,0 Star,wzpxvxmq,174,https://www.speedrun.com/sm64/run/wzpxvxmq,,6436,6436,,,,N64,No
-175,0 Star,me0e5g8z,175,https://www.speedrun.com/sm64/run/me0e5g8z,2023-12-05T05:43:00Z,6440,6440,xko59n68,FleetingAzure,United States,N64,Yes
-176,0 Star,y48n92qm,176,https://www.speedrun.com/sm64/run/y48n92qm,2022-02-27T06:29:43Z,6446,6446,v819rrxp,Marco,France,N64,Yes
-177,0 Star,z18wn57y,177,https://www.speedrun.com/sm64/run/z18wn57y,2021-04-08T12:46:12Z,6447,6447,5j594e6x,peta,Japan,N64,Yes
-178,0 Star,zx8k855m,178,https://www.speedrun.com/sm64/run/zx8k855m,2022-08-10T01:41:45Z,6451,6451,zx7qg1y8,Muimania,Germany,EMU,Yes
-179,0 Star,zne1xj9z,179,https://www.speedrun.com/sm64/run/zne1xj9z,2023-10-27T09:01:43Z,6452,6452,8e6k1loj,PhoenixAUS,Australia,VC,Yes
-180,0 Star,y8jrq5nz,180,https://www.speedrun.com/sm64/run/y8jrq5nz,2021-12-27T16:43:51Z,6460,6460,qxkmn26j,popesquidward,United States,N64,Yes
-181,0 Star,m3ql0lwy,181,https://www.speedrun.com/sm64/run/m3ql0lwy,2023-07-08T10:54:02Z,6461,6461,zx73n50j,JDee,Canada,N64,Yes
-182,0 Star,y27n395z,182,https://www.speedrun.com/sm64/run/y27n395z,2021-10-20T06:22:05Z,6462,6462,j51q9668,RianDiCielo,Panama,EMU,Yes
-183,0 Star,z5kd6wez,182,https://www.speedrun.com/sm64/run/z5kd6wez,2023-11-04T22:15:51Z,6462,6462,qj2yvm78,pete,United States,N64,Yes
-184,0 Star,me44vv3y,184,https://www.speedrun.com/sm64/run/me44vv3y,2021-08-31T07:31:46Z,6463,6463,kjpmy0jq,ThatDrunkenDwarf,England,N64,Yes
-185,0 Star,zn40rn3m,185,https://www.speedrun.com/sm64/run/zn40rn3m,2018-09-19T20:56:07Z,6466,6466,,,,N64,Yes
-186,0 Star,yvjk606y,185,https://www.speedrun.com/sm64/run/yvjk606y,2019-04-04T15:54:34Z,6466,6466,1xy5vzy8,m0m0,,N64,Yes
-187,0 Star,zx7n4v5y,185,https://www.speedrun.com/sm64/run/zx7n4v5y,2022-06-07T07:24:25Z,6466,6466,18vkpmej,Menstilo,Germany,EMU,Yes
-188,0 Star,zx3ql3ez,188,https://www.speedrun.com/sm64/run/zx3ql3ez,2023-07-21T17:26:40Z,6471,6471,j2636gox,smc_,Scotland,N64,Yes
-189,0 Star,9yox80yx,189,https://www.speedrun.com/sm64/run/9yox80yx,,6472,6472,y8d4po86,Toufool,United States,N64,Yes
-190,0 Star,yjx7gp7z,190,https://www.speedrun.com/sm64/run/yjx7gp7z,2022-03-06T13:32:53Z,6474,6474,zx7nlkq8,bev_prune_,Australia,N64,Yes
-191,0 Star,zqgp125m,191,https://www.speedrun.com/sm64/run/zqgp125m,2021-03-19T11:21:06Z,6478,6478,zxze2zex,Flixer,United States,N64,Yes
-192,0 Star,zqj7gdrm,191,https://www.speedrun.com/sm64/run/zqj7gdrm,2023-06-26T13:37:50Z,6478,6478,8dw231lj,mdsnoopy,Chile,N64,Yes
-193,0 Star,mrq8w74y,193,https://www.speedrun.com/sm64/run/mrq8w74y,2017-05-29T04:37:41Z,6481,6481,y8dwdegj,hellool,United States,N64,Yes
-194,0 Star,y8jrjndz,194,https://www.speedrun.com/sm64/run/y8jrjndz,2021-12-29T06:07:28Z,6483,6483,48gkmp2j,mercredi,Canada,N64,Yes
-195,0 Star,emkj81ly,195,https://www.speedrun.com/sm64/run/emkj81ly,2017-03-14T05:07:54Z,6491,6491,68wegq8g,Custom,Canada,N64,Yes
-196,0 Star,y2ppkw9z,196,https://www.speedrun.com/sm64/run/y2ppkw9z,2022-05-30T22:38:39Z,6494,6494,qjok7l78,TwitchName,United States,N64,Yes
-197,0 Star,yl6q8d2y,197,https://www.speedrun.com/sm64/run/yl6q8d2y,2023-06-13T14:01:55Z,6495,6495,98rky4qx,BigCheese,United States,VC,Yes
-198,0 Star,yo4gd91m,198,https://www.speedrun.com/sm64/run/yo4gd91m,2018-04-09T17:34:02Z,6500,6500,kjppl92j,quiilucru,,N64,Yes
-199,0 Star,zxw7r8km,198,https://www.speedrun.com/sm64/run/zxw7r8km,2023-11-20T20:01:28Z,6500,6500,8g2zm0rj,meephs,,N64,Yes
-200,0 Star,wzp3o3rm,200,https://www.speedrun.com/sm64/run/wzp3o3rm,2015-09-09T18:03:15Z,6505,6505,48gem41j,igreil,United States,N64,Yes
-201,0 Star,m70o3gwy,200,https://www.speedrun.com/sm64/run/m70o3gwy,2023-07-27T05:54:24Z,6505,6505,zxz67wn8,AJLane,United States,N64,Yes
-202,0 Star,y4gkr9ky,202,https://www.speedrun.com/sm64/run/y4gkr9ky,2023-02-22T07:07:20Z,6508,6508,xkm3lk7j,Nonag,Germany,EMU,Yes
-203,0 Star,yd18k1jy,203,https://www.speedrun.com/sm64/run/yd18k1jy,2022-08-01T00:38:22Z,6509,6509,8v55qvej,Lucinovic,Netherlands,N64,Yes
-204,0 Star,yon5x85z,204,https://www.speedrun.com/sm64/run/yon5x85z,2023-08-12T05:11:15Z,6518,6518,8r7412qj,Rynnoo,United States,N64,Yes
-205,0 Star,zp2406xy,205,https://www.speedrun.com/sm64/run/zp2406xy,2021-12-18T12:10:45Z,6525,6525,18qowewj,Majoog,South Korea,EMU,Yes
-206,0 Star,yv8vnkom,205,https://www.speedrun.com/sm64/run/yv8vnkom,2023-02-25T03:00:06Z,6525,6525,8wlk4n4j,Kaimatix,England,N64,Yes
-207,0 Star,yd11woxy,207,https://www.speedrun.com/sm64/run/yd11woxy,2022-09-11T02:24:21Z,6527,6527,86v9945j,Tit0MEX_64,Mexico,EMU,Yes
-208,0 Star,y62w2q0z,208,https://www.speedrun.com/sm64/run/y62w2q0z,2023-08-17T02:05:31Z,6531,6531,qj2pr078,roddy,Brazil,EMU,Yes
-209,0 Star,y8k8rqny,209,https://www.speedrun.com/sm64/run/y8k8rqny,2023-11-15T20:25:40Z,6533,6533,v8159vlj,collins_vg,United States,N64,No
-210,0 Star,zqdeld9m,210,https://www.speedrun.com/sm64/run/zqdeld9m,2023-12-05T16:37:29Z,6536,6536,jn32931x,Suigi,Canada,N64,Yes
-211,0 Star,emk1xxy6,211,https://www.speedrun.com/sm64/run/emk1xxy6,,6538,6538,,,,N64,No
-212,0 Star,z1kdkwry,212,https://www.speedrun.com/sm64/run/z1kdkwry,2023-09-09T13:20:23Z,6543,6543,8vkn1mnj,madware,Chile,N64,Yes
-213,0 Star,7z08q4m5,213,https://www.speedrun.com/sm64/run/7z08q4m5,,6544,6544,e8eepzo8,alextolio,Greece,VC,No
-214,0 Star,y69ewvpy,214,https://www.speedrun.com/sm64/run/y69ewvpy,2021-10-19T01:16:27Z,6551,6551,1xyky4n8,thags15,United States,N64,Yes
-215,0 Star,mk2pw2vm,215,https://www.speedrun.com/sm64/run/mk2pw2vm,2019-12-22T17:48:40Z,6557,6557,7j47lplj,dumpdome64,United States,EMU,Yes
-216,0 Star,yjwpv03m,215,https://www.speedrun.com/sm64/run/yjwpv03m,2023-11-20T22:54:46Z,6557,6557,816nqwqx,Zaikenator,United States,N64,Yes
-217,0 Star,y9kxl1nz,217,https://www.speedrun.com/sm64/run/y9kxl1nz,2023-11-24T20:36:41Z,6565,6565,j2w1w5lj,RONC3NA,United States,N64,Yes
-218,0 Star,0zn9d7yn,218,https://www.speedrun.com/sm64/run/0zn9d7yn,,6566,6566,zx7dpyx7,Holahu,England,EMU,Yes
-219,0 Star,9mrxwgmq,219,https://www.speedrun.com/sm64/run/9mrxwgmq,,6567,6567,48gr9rpx,sicko,England,N64,No
-220,0 Star,zqev3jrz,220,https://www.speedrun.com/sm64/run/zqev3jrz,2023-01-18T07:48:34Z,6568,6568,1xyo90yj,Avijobat,Mexico,VC,Yes
-221,0 Star,m3gl3pqz,221,https://www.speedrun.com/sm64/run/m3gl3pqz,2020-11-22T10:49:58Z,6572,6572,pj0ke0m8,SeanRaider,Canada,N64,Yes
-222,0 Star,zpg9oegz,221,https://www.speedrun.com/sm64/run/zpg9oegz,2023-02-02T16:30:40Z,6572,6572,e8evzg7x,gamiru,Japan,N64,Yes
-223,0 Star,pyd0r8wz,223,https://www.speedrun.com/sm64/run/pyd0r8wz,2015-07-08T11:25:04Z,6573,6573,kj9rv7j4,Washeyy,Australia,N64,No
-224,0 Star,zgej22ey,223,https://www.speedrun.com/sm64/run/zgej22ey,2023-07-31T23:45:07Z,6573,6573,8lpl934j,PegiTheLoca,Germany,EMU,Yes
-225,0 Star,7yl97lny,225,https://www.speedrun.com/sm64/run/7yl97lny,2014-12-24T07:11:47Z,6574,6574,18vo42xl,SimpleFlips,United States,N64,Yes
-226,0 Star,9mee5g0m,226,https://www.speedrun.com/sm64/run/9mee5g0m,2016-05-25T22:48:39Z,6575,6575,e8e9ze2j,ohaithereman,United States,N64,Yes
-227,0 Star,8y84qe1z,226,https://www.speedrun.com/sm64/run/8y84qe1z,2017-01-31T20:06:08Z,6575,6575,v8l732jm,Jolteon92,England,N64,Yes
-228,0 Star,zqw5e99z,228,https://www.speedrun.com/sm64/run/zqw5e99z,2020-08-07T13:18:01Z,6580,6580,qxk4q47j,Redd,United States,N64,Yes
-229,0 Star,z0jkx64y,228,https://www.speedrun.com/sm64/run/z0jkx64y,2023-08-11T16:31:31Z,6580,6580,kj9z6pn8,Sunnard,France,EMU,Yes
-230,0 Star,pm3j4dz0,230,https://www.speedrun.com/sm64/run/pm3j4dz0,2023-09-27T00:22:15Z,6582,6582,,,,N64,No
-231,0 Star,y95nxnvz,230,https://www.speedrun.com/sm64/run/y95nxnvz,2019-08-07T00:39:50Z,6582,6582,98r2y03x,SoloQ,United States,EMU,Yes
-232,0 Star,y8q3d6dy,232,https://www.speedrun.com/sm64/run/y8q3d6dy,2017-04-05T17:12:43Z,6584,6584,y8dw0vgj,TylerSM74,Canada,N64,Yes
-233,0 Star,zp4o29nz,232,https://www.speedrun.com/sm64/run/zp4o29nz,2020-01-23T06:32:18Z,6584,6584,y8d4ng86,CarlosDaMan,United States,N64,Yes
-234,0 Star,yj2n43om,232,https://www.speedrun.com/sm64/run/yj2n43om,2023-08-31T16:58:23Z,6584,6584,x3q4rqqj,52koney,Japan,N64,Yes
-235,0 Star,y97gn22m,235,https://www.speedrun.com/sm64/run/y97gn22m,2018-03-23T12:38:56Z,6587,6587,,,,N64,Yes
-236,0 Star,pydk5nxm,236,https://www.speedrun.com/sm64/run/pydk5nxm,2017-03-13T09:36:43Z,6589,6589,,,,N64,Yes
-237,0 Star,mrqoq88y,237,https://www.speedrun.com/sm64/run/mrqoq88y,2017-11-22T00:30:24Z,6592,6592,qjo26208,YarvishSaseko,Japan,N64,Yes
-238,0 Star,y2g54g5z,238,https://www.speedrun.com/sm64/run/y2g54g5z,2023-05-26T02:35:49Z,6594,6594,8qz4y5o8,JamesBod,Canada,N64,Yes
-239,0 Star,y9k375vz,238,https://www.speedrun.com/sm64/run/y9k375vz,2023-10-29T22:08:45Z,6594,6594,8enge328,BenedictFleur123,Netherlands,EMU,Yes
-240,0 Star,y45wkxdm,240,https://www.speedrun.com/sm64/run/y45wkxdm,2017-07-01T07:16:48Z,6595,6595,e8e6k12j,kumasyatyou,Japan,N64,Yes
-241,0 Star,z03vnr8z,241,https://www.speedrun.com/sm64/run/z03vnr8z,2019-05-07T22:13:22Z,6596,6596,1xy06qnj,Squirr3I,United States,N64,Yes
-242,0 Star,zq12k31m,242,https://www.speedrun.com/sm64/run/zq12k31m,2021-06-22T23:59:38Z,6597,6597,dx307r6x,NicV,United States,N64,Yes
-243,0 Star,pzggnnez,243,https://www.speedrun.com/sm64/run/pzggnnez,2015-09-23T18:27:09Z,6598,6598,,,,N64,No
-244,0 Star,yvv85goy,243,https://www.speedrun.com/sm64/run/yvv85goy,2023-12-04T05:21:40Z,6598,6598,v81gypl8,realblopez,United States,N64,Yes
-245,0 Star,oy2w45yd,245,https://www.speedrun.com/sm64/run/oy2w45yd,,6599,6599,,,,N64,Yes
-246,0 Star,7z0q49m5,245,https://www.speedrun.com/sm64/run/7z0q49m5,2023-09-27T00:17:14Z,6599,6599,xz9k6ye8,Rorotto,Japan,N64,No
-247,0 Star,yl4xdgkm,245,https://www.speedrun.com/sm64/run/yl4xdgkm,2019-01-29T21:04:36Z,6599,6599,48gyr78p,TheoryLocked,Austria,EMU,No
-248,0 Star,mrlql32m,245,https://www.speedrun.com/sm64/run/mrlql32m,2023-05-03T13:54:18Z,6599,6599,zxz1vorj,Karyno,France,N64,Yes
-249,0 Star,m700x0ey,245,https://www.speedrun.com/sm64/run/m700x0ey,2023-07-12T13:44:51Z,6599,6599,18qrd50j,wermi,Poland,N64,Yes
-250,0 Star,y98qkjrz,245,https://www.speedrun.com/sm64/run/y98qkjrz,2023-08-23T04:15:49Z,6599,6599,qjnw4rdj,CapruSin,United States,EMU,Yes
-251,0 Star,ywn6243y,245,https://www.speedrun.com/sm64/run/ywn6243y,2023-11-26T22:36:07Z,6599,6599,pj0322mj,Erthide,QuÃ©bec,VC,Yes
-252,0 Star,m7g8de9m,252,https://www.speedrun.com/sm64/run/m7g8de9m,2020-05-11T00:15:34Z,6606,6606,qj26nnnx,Marteeny,Japan,N64,Yes
-253,0 Star,ylkox42z,253,https://www.speedrun.com/sm64/run/ylkox42z,2020-05-13T13:44:21Z,6608,6608,zx75q087,Vincertain,QuÃ©bec,N64,Yes
-254,0 Star,yo4d1q0m,254,https://www.speedrun.com/sm64/run/yo4d1q0m,2017-11-21T04:55:14Z,6613,6613,18q3o2oj,dazrin_,Canada,N64,Yes
-255,0 Star,y829ow5y,255,https://www.speedrun.com/sm64/run/y829ow5y,2020-04-13T17:53:26Z,6615,6615,48goorxp,RetroRuns,England,N64,Yes
-256,0 Star,zgwvwj0y,256,https://www.speedrun.com/sm64/run/zgwvwj0y,2020-05-02T15:01:58Z,6618,6618,dx35qr2j,Jebuskiller,Australia,N64,Yes
-257,0 Star,zgeo7key,257,https://www.speedrun.com/sm64/run/zgeo7key,2023-07-24T23:07:56Z,6620,6620,8e6qyddj,Salemba,Austria,EMU,Yes
-258,0 Star,znv4dp3m,258,https://www.speedrun.com/sm64/run/znv4dp3m,2023-05-13T08:17:05Z,6624,6624,j5v799w8,Naraknight,United States,N64,Yes
-259,0 Star,zp8lnwvy,259,https://www.speedrun.com/sm64/run/zp8lnwvy,2021-08-17T09:27:15Z,6640,6640,18v2l4ej,Zombie2,Canada,EMU,Yes
-260,0 Star,y2jojd9z,260,https://www.speedrun.com/sm64/run/y2jojd9z,2023-04-13T07:05:59Z,6643,6643,jn37ppdx,cookincat,United States,EMU,Yes
-261,0 Star,mro86o7m,261,https://www.speedrun.com/sm64/run/mro86o7m,2022-12-12T20:14:49Z,6662,6662,zxzqlnrx,Cysse,France,EMU,Yes
-262,0 Star,yjx27l7z,262,https://www.speedrun.com/sm64/run/yjx27l7z,2022-02-05T08:04:49Z,6664,6664,8w1wp94x,CheZach,Canada,N64,Yes
-263,0 Star,mk44vevy,263,https://www.speedrun.com/sm64/run/mk44vevy,2017-05-01T07:16:12Z,6668,6668,18vomvxl,Dublin,United States,N64,Yes
-264,0 Star,z0pponey,264,https://www.speedrun.com/sm64/run/z0pponey,2022-05-29T20:10:24Z,6674,6674,0jmvr1yj,Lusion,United States,EMU,Yes
-265,0 Star,yv12dd4y,265,https://www.speedrun.com/sm64/run/yv12dd4y,2021-05-09T20:57:24Z,6675,6675,zxzn5q4x,RWBYSorry,England,EMU,Yes
-266,0 Star,y62d3jqz,266,https://www.speedrun.com/sm64/run/y62d3jqz,2023-06-08T08:03:07Z,6679,6679,e8ewrz78,ariapath,Australia,EMU,Yes
-267,0 Star,y8qd0nwy,267,https://www.speedrun.com/sm64/run/y8qd0nwy,2017-08-23T14:46:09Z,6680,6680,qj2367xk,bounceyboy,United States,N64,Yes
-268,0 Star,y6oj4pqy,268,https://www.speedrun.com/sm64/run/y6oj4pqy,2023-03-21T05:35:16Z,6681,6681,8w12vnqx,LowAppeal,United States,N64,Yes
-269,0 Star,yvg2nnoy,269,https://www.speedrun.com/sm64/run/yvg2nnoy,2017-08-08T08:16:53Z,6686,6686,zx72o068,naji,Sri Lanka,N64,Yes
-270,0 Star,m7770l4m,270,https://www.speedrun.com/sm64/run/m7770l4m,2021-09-02T16:58:38Z,6691,6691,86vwom0j,WaterproofTeabag_,Australia,N64,Yes
-271,0 Star,pyd9wrvz,271,https://www.speedrun.com/sm64/run/pyd9wrvz,2015-08-23T15:23:29Z,6707,6707,98rp3q6j,joeys64,Netherlands,VC,Yes
-272,0 Star,zxw8xlgm,272,https://www.speedrun.com/sm64/run/zxw8xlgm,2023-11-26T12:34:23Z,6710,6710,8g5772rj,Semaa,Bosnia and Herzegovina,EMU,Yes
-273,0 Star,z5pl3jnm,273,https://www.speedrun.com/sm64/run/z5pl3jnm,2023-07-30T10:48:47Z,6712,6712,8end5g78,SonicGordon6,United States,EMU,Yes
-274,0 Star,yvq528em,274,https://www.speedrun.com/sm64/run/yvq528em,2022-03-06T07:56:38Z,6713,6713,qjopvonx,clairdss,United States,VC,Yes
-275,0 Star,ywq1k82y,275,https://www.speedrun.com/sm64/run/ywq1k82y,2021-04-14T20:21:44Z,6715,6715,qjoddd3x,Hakasay,United States,N64,Yes
-276,0 Star,7z0vxeoy,276,https://www.speedrun.com/sm64/run/7z0vxeoy,2017-03-21T08:45:03Z,6716,6716,qj26mlxk,ClysmiC,,N64,Yes
-277,0 Star,9meg50y7,277,https://www.speedrun.com/sm64/run/9meg50y7,,6732,6732,o863r08z,Seanzy,United States,N64,No
-278,0 Star,y9x0922y,278,https://www.speedrun.com/sm64/run/y9x0922y,2022-08-13T12:42:24Z,6735,6735,zx762vj7,Luco,United States,VC,Yes
-279,0 Star,z0nr589m,279,https://www.speedrun.com/sm64/run/z0nr589m,2023-01-12T21:55:16Z,6740,6740,jnz2ykqj,ShaDowSPoweR,France,EMU,Yes
-280,0 Star,me76vo3y,280,https://www.speedrun.com/sm64/run/me76vo3y,2021-05-01T03:19:44Z,6743,6743,y8dz54gj,maosfx,United States,VC,Yes
-281,0 Star,yw6kdqpm,280,https://www.speedrun.com/sm64/run/yw6kdqpm,2022-08-28T03:59:01Z,6743,6743,xzlq0er8,r1cef4rmer,United States,EMU,Yes
-282,0 Star,0zn37r8y,282,https://www.speedrun.com/sm64/run/0zn37r8y,2015-07-12T16:11:54Z,6745,6745,qjnp448m,Vorago,United Kingdom,EMU,Yes
-283,0 Star,z1lpj5gm,283,https://www.speedrun.com/sm64/run/z1lpj5gm,2023-06-25T18:24:34Z,6747,6747,8vo90m5x,Nicolascs83,Spain,N64,Yes
-284,0 Star,0y6ge1m7,284,https://www.speedrun.com/sm64/run/0y6ge1m7,,6757,6757,,,,VC,Yes
-285,0 Star,ylqn05kz,285,https://www.speedrun.com/sm64/run/ylqn05kz,2021-06-03T18:50:23Z,6758,6758,kj90nrj4,Kyrette,United States,VC,Yes
-286,0 Star,9yoxg0yx,286,https://www.speedrun.com/sm64/run/9yoxg0yx,,6760,6760,,,,N64,No
-287,0 Star,z0n7goom,287,https://www.speedrun.com/sm64/run/z0n7goom,2023-01-23T02:59:22Z,6761,6761,xko6o278,Seceon,Chile,N64,Yes
-288,0 Star,wzpx1rnm,288,https://www.speedrun.com/sm64/run/wzpx1rnm,2016-09-16T21:44:18Z,6765,6765,48g03yxp,wilzo,United Kingdom,N64,Yes
-289,0 Star,m3d8no6z,289,https://www.speedrun.com/sm64/run/m3d8no6z,2018-03-23T12:45:48Z,6766,6766,,,,N64,Yes
-290,0 Star,zxw7kl5m,290,https://www.speedrun.com/sm64/run/zxw7kl5m,2023-11-15T03:00:10Z,6770,6770,zx7gw1rx,Invisible_hole,United States,N64,Yes
-291,0 Star,y8d8eowz,291,https://www.speedrun.com/sm64/run/y8d8eowz,2021-05-26T05:24:00Z,6776,6776,8ge9k0rj,ryompt,United States,EMU,Yes
-292,0 Star,z110elwz,292,https://www.speedrun.com/sm64/run/z110elwz,2019-03-29T17:27:30Z,6778,6778,y8d4dk58,SomeBro,United States,EMU,Yes
-293,0 Star,mrqw484y,293,https://www.speedrun.com/sm64/run/mrqw484y,2018-03-23T12:44:16Z,6780,6780,7j4qr2mx,marshmallow.,Japan,N64,Yes
-294,0 Star,z1pg1j9z,294,https://www.speedrun.com/sm64/run/z1pg1j9z,2022-06-02T12:36:33Z,6783,6783,0jmw6wex,Bombs,United States,N64,Yes
-295,0 Star,y9nqw1kz,295,https://www.speedrun.com/sm64/run/y9nqw1kz,2021-04-01T08:34:31Z,6790,6790,zxzzzrxq,Moose,United States,N64,Yes
-296,0 Star,ywrkn90m,296,https://www.speedrun.com/sm64/run/ywrkn90m,2023-06-17T13:10:34Z,6791,6791,48g7gd18,jepega,Netherlands,N64,Yes
-297,0 Star,y4gvkeny,297,https://www.speedrun.com/sm64/run/y4gvkeny,2023-04-01T10:58:28Z,6798,6798,pj0eny48,scoagogo,Northern Ireland,EMU,Yes
-298,0 Star,y4keq4dm,298,https://www.speedrun.com/sm64/run/y4keq4dm,2023-10-10T07:36:01Z,6799,6799,v8l0ogl8,Galaxtic,Sweden,EMU,Yes
-299,0 Star,zpp2dlnz,299,https://www.speedrun.com/sm64/run/zpp2dlnz,2023-11-10T09:07:35Z,6801,6801,8rpwpnqj,xInf3rn0,United States,N64,Yes
-300,0 Star,0y6l5x0y,300,https://www.speedrun.com/sm64/run/0y6l5x0y,2015-03-23T04:38:39Z,6804,6804,y8dgeo86,mitcho,Australia,N64,Yes
-301,0 Star,pm3qd2dy,301,https://www.speedrun.com/sm64/run/pm3qd2dy,2016-06-01T03:23:55Z,6805,6805,qjn9dwxm,360Chrism,Germany,VC,Yes
-302,0 Star,yl69o0xy,302,https://www.speedrun.com/sm64/run/yl69o0xy,2023-05-01T07:01:13Z,6808,6808,8g5egl1j,Rayydex,Germany,EMU,Yes
-303,0 Star,nz13vprm,303,https://www.speedrun.com/sm64/run/nz13vprm,2015-01-16T04:10:32Z,6811,6811,0jmpgoj1,Audraxys,Canada,VC,Yes
-304,0 Star,z0j86e4y,304,https://www.speedrun.com/sm64/run/z0j86e4y,2023-07-30T15:55:46Z,6813,6813,8r7eqr6j,Itz_Me_Coreyyy,United States,N64,Yes
-305,0 Star,pydlxvzn,305,https://www.speedrun.com/sm64/run/pydlxvzn,,6817,6817,8l00pll8,Gombill,United States,N64,Yes
-306,0 Star,pzgj4ez2,306,https://www.speedrun.com/sm64/run/pzgj4ez2,,6818,6818,v8lgq7jm,datimeloss,Canada,EMU,Yes
-307,0 Star,zqeeooxz,307,https://www.speedrun.com/sm64/run/zqeeooxz,2023-02-14T21:41:00Z,6820,6820,1xyqnov8,unpushplay,United States,N64,Yes
-308,0 Star,m3705x6z,308,https://www.speedrun.com/sm64/run/m3705x6z,2021-10-09T03:20:45Z,6826,6826,8gr1ld7x,kdogk,United States,EMU,Yes
-309,0 Star,9yolve0y,309,https://www.speedrun.com/sm64/run/9yolve0y,2016-04-21T13:32:55Z,6827,6827,18vyq58l,Haruæ§˜,Germany,N64,Yes
-310,0 Star,kz52wk5z,310,https://www.speedrun.com/sm64/run/kz52wk5z,2016-02-29T23:11:10Z,6828,6828,o864qpjz,JazzyChoi1991,England,N64,Yes
-311,0 Star,z07g06ey,310,https://www.speedrun.com/sm64/run/z07g06ey,2021-11-22T17:14:53Z,6828,6828,8gee7n7j,LxqZach,Germany,N64,Yes
-312,0 Star,zpwpx8ry,312,https://www.speedrun.com/sm64/run/zpwpx8ry,2023-07-18T07:54:37Z,6835,6835,8lr5gl78,Majora_AG,Norway,EMU,Yes
-313,0 Star,mkg97kvy,313,https://www.speedrun.com/sm64/run/mkg97kvy,2021-04-18T17:29:24Z,6837,6837,98rv2rdj,Perna64,United States,N64,Yes
-314,0 Star,9mr9orgm,314,https://www.speedrun.com/sm64/run/9mr9orgm,2015-07-17T15:38:19Z,6849,6849,zx73kqj7,Skaredogged97,Switzerland,EMU,Yes
-315,0 Star,yl7d5prm,315,https://www.speedrun.com/sm64/run/yl7d5prm,2022-06-25T04:22:31Z,6858,6858,j4232gmx,VonJim,QuÃ©bec,N64,Yes
-316,0 Star,8m7o44y0,316,https://www.speedrun.com/sm64/run/8m7o44y0,,6859,6859,,,,N64,No
-317,0 Star,y2g2ke6z,317,https://www.speedrun.com/sm64/run/y2g2ke6z,2023-07-22T16:28:34Z,6860,6860,86vp263j,OdieB,Canada,N64,Yes
-318,0 Star,y23pej7m,318,https://www.speedrun.com/sm64/run/y23pej7m,2017-10-23T03:43:21Z,6862,6862,qjooqd0j,SmashBrawler64,United States,N64,Yes
-319,0 Star,yv2ejw8m,319,https://www.speedrun.com/sm64/run/yv2ejw8m,2021-03-25T20:25:09Z,6868,6868,7j420lwx,Progji,Germany,N64,Yes
-320,0 Star,yodj5r0m,320,https://www.speedrun.com/sm64/run/yodj5r0m,2022-08-11T12:37:22Z,6872,6872,x353emej,Bernhard,Germany,N64,Yes
-321,0 Star,8yvxdozo,321,https://www.speedrun.com/sm64/run/8yvxdozo,,6875,6875,,,,N64,No
-322,0 Star,y86q73nm,322,https://www.speedrun.com/sm64/run/y86q73nm,2023-05-06T00:20:09Z,6876,6876,xkmnnmmj,ZUMMI,Italy,EMU,Yes
-323,0 Star,zpw90pvy,323,https://www.speedrun.com/sm64/run/zpw90pvy,2023-06-25T15:33:46Z,6878,6878,8rpq26dj,Midbro_,United States,VC,Yes
-324,0 Star,mk09q13z,324,https://www.speedrun.com/sm64/run/mk09q13z,2023-05-10T14:45:05Z,6882,6882,o86owz08,D3m0nf4ng,Germany,EMU,Yes
-325,0 Star,1zxxrezx,325,https://www.speedrun.com/sm64/run/1zxxrezx,,6886,6886,,,,N64,Yes
-326,0 Star,yvon9e4z,326,https://www.speedrun.com/sm64/run/yvon9e4z,2021-10-21T16:51:42Z,6891,6891,7j4mzd5j,Thomkar,Norway,EMU,Yes
-327,0 Star,9melnl2z,327,https://www.speedrun.com/sm64/run/9melnl2z,2016-06-25T14:46:42Z,6896,6896,,,,VC,Yes
-328,0 Star,9yod935m,328,https://www.speedrun.com/sm64/run/9yod935m,2016-03-20T18:53:06Z,6900,6900,,,,N64,No
-329,0 Star,zq6ogg8y,328,https://www.speedrun.com/sm64/run/zq6ogg8y,2018-04-06T20:15:52Z,6900,6900,qjnzw04j,disrespectless,Germany,N64,Yes
-330,0 Star,y2j6qn6z,330,https://www.speedrun.com/sm64/run/y2j6qn6z,2023-03-28T23:00:55Z,6901,6901,j519wqn8,Rodillo,Spain,VC,Yes
-331,0 Star,me1rrn0y,331,https://www.speedrun.com/sm64/run/me1rrn0y,2022-11-26T10:44:08Z,6906,6906,jo35yn7j,Luisito,Mexico,VC,Yes
-332,0 Star,y2gxx47z,331,https://www.speedrun.com/sm64/run/y2gxx47z,2023-06-10T02:59:53Z,6906,6906,pj0z4m98,Expreli,United States,VC,Yes
-333,0 Star,9yoq10zx,333,https://www.speedrun.com/sm64/run/9yoq10zx,,6908,6908,,,,EMU,No
-334,0 Star,8m7er4z0,334,https://www.speedrun.com/sm64/run/8m7er4z0,,6919,6919,qjoyg3x6,Lluuccuuss,England,N64,Yes
-335,0 Star,mkqd2e1m,335,https://www.speedrun.com/sm64/run/mkqd2e1m,2023-11-22T20:39:11Z,6922,6922,xz27v1nx,NewmanBeatbox,United States,EMU,No
-336,0 Star,yojp320m,336,https://www.speedrun.com/sm64/run/yojp320m,2019-09-29T20:29:29Z,6924,6924,qxkm4m6j,Galax,Switzerland,EMU,Yes
-337,0 Star,znvppolm,337,https://www.speedrun.com/sm64/run/znvppolm,2023-06-27T06:23:46Z,6929,6929,8w1wng4x,moltres93,United States,N64,Yes
-338,0 Star,y96wpery,338,https://www.speedrun.com/sm64/run/y96wpery,2023-03-26T14:13:53Z,6931,6931,8ek14278,Zinsch,Denmark,EMU,Yes
-339,0 Star,8y8p7dz1,339,https://www.speedrun.com/sm64/run/8y8p7dz1,,6934,6934,kjpk4kxq,moodehh,United Kingdom,N64,No
-340,0 Star,mk7003vy,340,https://www.speedrun.com/sm64/run/mk7003vy,2021-03-01T03:05:52Z,6935,6935,qxk241kx,Heyzeus,United States,N64,Yes
-341,0 Star,pm3jpdz0,341,https://www.speedrun.com/sm64/run/pm3jpdz0,,6938,6938,v8lez14x,TheDarkmanWs,Sweden,N64,No
-342,0 Star,dy4ld3zl,342,https://www.speedrun.com/sm64/run/dy4ld3zl,,6946,6946,o866w58z,Xiah,Japan,N64,No
-343,0 Star,z06nw7jz,343,https://www.speedrun.com/sm64/run/z06nw7jz,2021-02-23T13:38:40Z,6947,6947,qjn2mw1j,Toadfan5,United States,N64,Yes
-344,0 Star,mel4v02z,344,https://www.speedrun.com/sm64/run/mel4v02z,2023-06-14T00:11:12Z,6951,6951,0jmn1vnx,Mennismonk,England,N64,Yes
-345,0 Star,zx7871gy,345,https://www.speedrun.com/sm64/run/zx7871gy,2022-06-04T05:36:20Z,6958,6958,qxkovr28,zach,United States,N64,Yes
-346,0 Star,zq63vjry,346,https://www.speedrun.com/sm64/run/zq63vjry,2017-05-18T18:53:26Z,6960,6960,pj0pe9xw,goodtime07,United States,N64,Yes
-347,0 Star,zx36gx5z,347,https://www.speedrun.com/sm64/run/zx36gx5z,2023-06-03T22:07:26Z,6962,6962,x76047vj,Phoenix64,United States,VC,Yes
-348,0 Star,zpp44jvz,348,https://www.speedrun.com/sm64/run/zpp44jvz,2023-09-25T04:07:44Z,6969,6969,j03np23j,w0nderbean,United States,N64,Yes
-349,0 Star,ywnkdjpy,349,https://www.speedrun.com/sm64/run/ywnkdjpy,2023-10-31T06:13:44Z,6973,6973,8l3ldyl8,jumpmanmatthew,United States,N64,Yes
-350,0 Star,zp9o6ovm,350,https://www.speedrun.com/sm64/run/zp9o6ovm,2022-07-07T23:02:00Z,6975,6975,jprppv28,SodiumChlorideIC,Austria,EMU,Yes
-351,0 Star,y6owl9qy,350,https://www.speedrun.com/sm64/run/y6owl9qy,2023-03-29T02:45:43Z,6975,6975,o86z710x,zekeSSB,United States,N64,Yes
-352,0 Star,m3rr866m,352,https://www.speedrun.com/sm64/run/m3rr866m,2021-05-14T04:27:40Z,6977,6977,8l0oq578,fireblazethem,United States,EMU,Yes
-353,0 Star,znk2ld9z,353,https://www.speedrun.com/sm64/run/znk2ld9z,2020-07-15T00:42:46Z,6980,6980,dx3wpl2j,MrJimmysteel25,United States,N64,Yes
-354,0 Star,me099p0z,354,https://www.speedrun.com/sm64/run/me099p0z,2023-10-16T00:26:04Z,6983,6983,8l33gm28,EmiBella,United States,N64,Yes
-355,0 Star,y868g31m,355,https://www.speedrun.com/sm64/run/y868g31m,2023-06-28T20:20:12Z,6985,6985,qj22wwpj,HappyZpanners,Norway,N64,Yes
-356,0 Star,8yv61kez,356,https://www.speedrun.com/sm64/run/8yv61kez,2015-05-19T20:46:42Z,6986,6986,0jm6gn81,race_out,Canada,N64,Yes
-357,0 Star,yjg639oy,357,https://www.speedrun.com/sm64/run/yjg639oy,2021-05-01T18:47:01Z,6987,6987,8rp1w6dj,zubat05,Ecuador,EMU,Yes
-358,0 Star,jy9p4em4,358,https://www.speedrun.com/sm64/run/jy9p4em4,,6990,6990,zx7w5y87,Blasant,Germany,EMU,Yes
-359,0 Star,me3now8z,359,https://www.speedrun.com/sm64/run/me3now8z,2022-07-01T12:54:37Z,6992,6992,qj2q6doj,JuiceACD,United States,EMU,Yes
-360,0 Star,zn15ko9m,360,https://www.speedrun.com/sm64/run/zn15ko9m,2021-07-01T02:25:33Z,6996,6996,68w672qj,drimys,United States,N64,Yes
-361,0 Star,mr6j554m,361,https://www.speedrun.com/sm64/run/mr6j554m,2021-12-04T14:04:25Z,7003,7003,1xy9r4yj,Mapiz,Italy,N64,Yes
-362,0 Star,y2jrd66z,362,https://www.speedrun.com/sm64/run/y2jrd66z,2023-03-23T16:02:43Z,7013,7013,xkoo67k8,RisingPhoenix64,Slovakia,EMU,Yes
-363,0 Star,y698veqy,363,https://www.speedrun.com/sm64/run/y698veqy,2021-11-04T19:58:43Z,7017,7017,86nqn6wx,Susano130,Japan,N64,Yes
-364,0 Star,me09920z,364,https://www.speedrun.com/sm64/run/me09920z,2023-10-16T00:03:35Z,7025,7025,zx71oy0x,FallGuysSexMod,Scotland,EMU,Yes
-365,0 Star,y6o35k6y,365,https://www.speedrun.com/sm64/run/y6o35k6y,2022-11-27T05:05:48Z,7026,7026,j0324nmj,MrDasho,Ecuador,EMU,Yes
-366,0 Star,7z0j8noy,366,https://www.speedrun.com/sm64/run/7z0j8noy,2016-06-25T12:27:27Z,7029,7029,o86nn7qx,dj0nk,United States,EMU,Yes
-367,0 Star,zne30l7z,366,https://www.speedrun.com/sm64/run/zne30l7z,2023-10-09T20:15:27Z,7029,7029,jn9qe22x,Famin,United States,EMU,Yes
-368,0 Star,y90jknky,368,https://www.speedrun.com/sm64/run/y90jknky,2020-07-12T23:36:35Z,7032,7032,v8lyv4jm,MarvJungs,Germany,EMU,Yes
-369,0 Star,y8q9n6ny,369,https://www.speedrun.com/sm64/run/y8q9n6ny,2017-05-28T14:25:44Z,7036,7036,7j4975w8,mashSRL,Germany,N64,Yes
-370,0 Star,emkojxz6,370,https://www.speedrun.com/sm64/run/emkojxz6,,7039,7039,e8el6oj0,esi,United States,EMU,No
-371,0 Star,2ywx93m4,371,https://www.speedrun.com/sm64/run/2ywx93m4,,7047,7047,,,,N64,No
-372,0 Star,mrl4jx8m,371,https://www.speedrun.com/sm64/run/mrl4jx8m,2023-06-02T01:25:46Z,7047,7047,qjn3my2x,Darkman_,France,EMU,Yes
-373,0 Star,z525xvdz,373,https://www.speedrun.com/sm64/run/z525xvdz,2022-04-05T16:31:03Z,7049,7049,68wg36qx,ded_lej,North Korea,N64,Yes
-374,0 Star,zx3x0nqz,374,https://www.speedrun.com/sm64/run/zx3x0nqz,2023-07-28T05:10:04Z,7053,7053,y8d95gox,Edgar3EEE,United States,N64,Yes
-375,0 Star,zgejw7dy,375,https://www.speedrun.com/sm64/run/zgejw7dy,2023-07-30T03:44:38Z,7054,7054,kjp9nvk8,fazerlazer80,United States,N64,Yes
-376,0 Star,pzgo5em2,376,https://www.speedrun.com/sm64/run/pzgo5em2,,7056,7056,,,,N64,Yes
-377,0 Star,y6xwxlpy,377,https://www.speedrun.com/sm64/run/y6xwxlpy,2022-11-04T03:16:48Z,7057,7057,8v6rq1vx,ti_83,United States,N64,Yes
-378,0 Star,y2ke7x6y,378,https://www.speedrun.com/sm64/run/y2ke7x6y,2023-11-24T15:10:42Z,7059,7059,j20qnrlx,MrFroggy,United States,EMU,Yes
-379,0 Star,kz5ro15y,379,https://www.speedrun.com/sm64/run/kz5ro15y,2015-09-23T18:46:55Z,7063,7063,zx7vky6x,Hafus,United States,N64,Yes
-380,0 Star,z0op6g8z,379,https://www.speedrun.com/sm64/run/z0op6g8z,2022-01-20T01:54:42Z,7063,7063,8e6nykoj,DTunester,United States,EMU,Yes
-381,0 Star,ydjv5p0y,381,https://www.speedrun.com/sm64/run/ydjv5p0y,2023-07-30T08:32:27Z,7064,7064,8v2p7gnj,hotdwgboy,United States,EMU,Yes
-382,0 Star,9megq0y7,382,https://www.speedrun.com/sm64/run/9megq0y7,,7066,7066,,,,N64,Yes
-383,0 Star,m3o3ljgm,383,https://www.speedrun.com/sm64/run/m3o3ljgm,2018-10-26T07:21:06Z,7069,7069,zx72k4r8,Yoshi_Zilla,United States,VC,Yes
-384,0 Star,zpg1l6xz,384,https://www.speedrun.com/sm64/run/zpg1l6xz,2023-01-13T04:19:05Z,7071,7071,v815l1lj,Derek,United States,EMU,Yes
-385,0 Star,zn3jpg9y,385,https://www.speedrun.com/sm64/run/zn3jpg9y,2020-11-22T09:57:01Z,7076,7076,dx35v6ej,MrMeanMoustache,Netherlands,N64,Yes
-386,0 Star,yodvpojm,386,https://www.speedrun.com/sm64/run/yodvpojm,2022-07-30T09:10:46Z,7077,7077,5j5gwr68,Speedrun,United States,EMU,Yes
-387,0 Star,y88k10wy,387,https://www.speedrun.com/sm64/run/y88k10wy,2022-06-18T07:41:26Z,7079,7079,18q652oj,Poke,United States,EMU,Yes
-388,0 Star,zggg7vdz,388,https://www.speedrun.com/sm64/run/zggg7vdz,2021-05-10T14:49:48Z,7083,7083,kjp4g4jq,Talon2461,England,VC,Yes
-389,0 Star,zg2206vy,389,https://www.speedrun.com/sm64/run/zg2206vy,2023-02-14T20:46:07Z,7084,7084,p18vz2jl,Illudude,Sweden,N64,Yes
-390,0 Star,oy2wl5yd,390,https://www.speedrun.com/sm64/run/oy2wl5yd,,7092,7092,v81q7ljp,Snowman,United States,N64,Yes
-391,0 Star,y6o0d3jy,390,https://www.speedrun.com/sm64/run/y6o0d3jy,2023-01-30T22:45:03Z,7092,7092,dx3w7r7j,KingJ0444,Canada,EMU,Yes
-392,0 Star,ydror7jz,392,https://www.speedrun.com/sm64/run/ydror7jz,2021-07-01T21:30:53Z,7093,7093,qxknvr7x,Marshall,Marshall Islands,N64,Yes
-393,0 Star,ywre3n9m,393,https://www.speedrun.com/sm64/run/ywre3n9m,2023-04-26T05:14:02Z,7097,7097,8qrldp7j,Amahumahaba,United States,N64,Yes
-394,0 Star,9yoxw0yx,394,https://www.speedrun.com/sm64/run/9yoxw0yx,,7098,7098,qj26qnxk,caivs,United States,N64,Yes
-395,0 Star,wzpxjxmq,395,https://www.speedrun.com/sm64/run/wzpxjxmq,,7099,7099,qj26pqnx,NyZ,Japan,N64,No
-396,0 Star,z1l2dr9m,396,https://www.speedrun.com/sm64/run/z1l2dr9m,2023-06-19T17:04:46Z,7101,7101,j92d9do8,Nikkeri,Finland,EMU,Yes
-397,0 Star,mee7k02m,397,https://www.speedrun.com/sm64/run/mee7k02m,2023-01-11T23:31:26Z,7102,7102,48gmdo78,JaVillain,United States,N64,Yes
-398,0 Star,y6d8qjqm,398,https://www.speedrun.com/sm64/run/y6d8qjqm,2021-07-03T05:01:39Z,7106,7106,pj0v90mx,adelyn64,United States,N64,Yes
-399,0 Star,y8joq2xz,399,https://www.speedrun.com/sm64/run/y8joq2xz,2022-02-22T03:06:38Z,7111,7111,86vm37pj,sevenyoshi,United States,N64,Yes
-400,0 Star,oy2nn9yd,400,https://www.speedrun.com/sm64/run/oy2nn9yd,,7113,7113,zx7qg687,ParadoxKarl,Esperanto,VC,No
-401,0 Star,mke55wlm,401,https://www.speedrun.com/sm64/run/mke55wlm,2022-01-11T03:53:25Z,7116,7116,qjod06nx,BlueX2,Germany,EMU,Yes
-402,0 Star,yj87rp3m,402,https://www.speedrun.com/sm64/run/yj87rp3m,2023-03-27T01:09:50Z,7117,7117,qj200q6x,Electrand,,EMU,Yes
-403,0 Star,y82dn2wy,403,https://www.speedrun.com/sm64/run/y82dn2wy,2020-05-21T14:01:27Z,7121,7121,zx70qm0j,TerraBoop,United States,N64,Yes
-404,0 Star,y4ookkdz,404,https://www.speedrun.com/sm64/run/y4ookkdz,2023-07-13T02:28:05Z,7123,7123,5j5qzewj,Keubab,France,N64,Yes
-405,0 Star,zq9qk11y,405,https://www.speedrun.com/sm64/run/zq9qk11y,2022-10-05T14:34:31Z,7124,7124,jmor1yo8,hector,Mexico,N64,Yes
-406,0 Star,y4oo9dnz,405,https://www.speedrun.com/sm64/run/y4oo9dnz,2023-07-10T09:17:45Z,7124,7124,8r2qg93x,boomeraang,,N64,Yes
-407,0 Star,yjpr5wny,407,https://www.speedrun.com/sm64/run/yjpr5wny,2022-07-15T10:26:25Z,7125,7125,8vkkkz5j,haruto701,Japan,N64,Yes
-408,0 Star,yw3l9j0m,408,https://www.speedrun.com/sm64/run/yw3l9j0m,2022-07-28T20:55:38Z,7128,7128,j2wlm4pj,Johnny3Oak,United States,N64,Yes
-409,0 Star,zp86qnxy,409,https://www.speedrun.com/sm64/run/zp86qnxy,2021-10-08T05:31:23Z,7129,7129,8e9o1w6j,sigalig,United States,N64,Yes
-410,0 Star,yddwe60y,409,https://www.speedrun.com/sm64/run/yddwe60y,2022-05-24T19:01:35Z,7129,7129,8l05yv48,zGamuT,United States,EMU,Yes
-411,0 Star,1zxjeeyx,411,https://www.speedrun.com/sm64/run/1zxjeeyx,,7131,7131,,,,EMU,Yes
-412,0 Star,z1x47jgm,411,https://www.speedrun.com/sm64/run/z1x47jgm,2021-11-16T22:43:17Z,7131,7131,xz7n0vnj,Pingu16,Italy,EMU,Yes
-413,0 Star,z0j1op8y,413,https://www.speedrun.com/sm64/run/z0j1op8y,2023-05-15T06:03:40Z,7135,7135,7j44olj1,AndrewAJT,United States,VC,Yes
-414,0 Star,2yw09q9m,414,https://www.speedrun.com/sm64/run/2yw09q9m,2015-09-18T15:48:26Z,7136,7136,18qnw78n,Mese,Japan,N64,No
-415,0 Star,ydjlp10y,415,https://www.speedrun.com/sm64/run/ydjlp10y,2023-07-28T15:45:58Z,7138,7138,xz9o5508,octave_6,United States,EMU,Yes
-416,0 Star,z117npwz,416,https://www.speedrun.com/sm64/run/z117npwz,2019-03-12T04:44:25Z,7140,7140,dx3rzz2x,IR,Canada,N64,Yes
-417,0 Star,ywnkr13y,417,https://www.speedrun.com/sm64/run/ywnkr13y,2023-11-02T19:49:41Z,7141,7141,v81100p8,HomerOfSteel,France,EMU,Yes
-418,0 Star,pm3v9dz0,418,https://www.speedrun.com/sm64/run/pm3v9dz0,,7145,7145,,,,EMU,Yes
-419,0 Star,0y62go0z,419,https://www.speedrun.com/sm64/run/0y62go0z,2016-06-25T12:33:15Z,7146,7146,,,,EMU,Yes
-420,0 Star,8m7ok4y0,420,https://www.speedrun.com/sm64/run/8m7ok4y0,,7147,7147,,,,N64,Yes
-421,0 Star,yjpk7e7y,421,https://www.speedrun.com/sm64/run/yjpk7e7y,2022-04-13T20:20:56Z,7151,7151,8d4egv98,RedSlim777,France,EMU,Yes
-422,0 Star,pm3rdodm,422,https://www.speedrun.com/sm64/run/pm3rdodm,2015-09-23T18:49:31Z,7153,7153,v48g37xp,JustinDT,QuÃ©bec,N64,Yes
-423,0 Star,ywr9r4pm,423,https://www.speedrun.com/sm64/run/ywr9r4pm,2023-08-28T12:38:39Z,7154,7154,qxkpnmj0,Niniste,France,EMU,Yes
-424,0 Star,mejve62y,424,https://www.speedrun.com/sm64/run/mejve62y,2021-12-02T11:06:18Z,7159,7159,5j5de9n8,Frozeno,Australia,VC,Yes
-425,0 Star,dy4n93ml,424,https://www.speedrun.com/sm64/run/dy4n93ml,,7159,7159,qjooplj6,5upamayne,Lebanon,EMU,No
-426,0 Star,me8rq83m,426,https://www.speedrun.com/sm64/run/me8rq83m,2019-05-13T21:40:43Z,7164,7164,qjn997dx,Tomtendo,England,N64,Yes
-427,0 Star,mrepp04y,427,https://www.speedrun.com/sm64/run/mrepp04y,2020-03-01T19:53:17Z,7165,7165,o86q79qx,YobunTeme,Japan,N64,Yes
-428,0 Star,z5j0oedm,427,https://www.speedrun.com/sm64/run/z5j0oedm,2020-05-09T05:27:49Z,7165,7165,kjpmk5jq,Ivan,United States,N64,Yes
-429,0 Star,y2x9p97m,429,https://www.speedrun.com/sm64/run/y2x9p97m,2021-04-11T03:41:45Z,7166,7166,o86neqxz,game_complete,Uganda,N64,Yes
-430,0 Star,8yv2q44m,430,https://www.speedrun.com/sm64/run/8yv2q44m,2015-08-23T00:29:33Z,7167,7167,qjoon7j6,senn,Germany,EMU,Yes
-431,0 Star,dy4od9qz,431,https://www.speedrun.com/sm64/run/dy4od9qz,2016-07-01T14:52:24Z,7168,7168,,,,VC,Yes
-432,0 Star,y2gnxp5z,432,https://www.speedrun.com/sm64/run/y2gnxp5z,2023-07-30T21:31:53Z,7170,7170,863k2ww8,MeepJeep,Germany,N64,Yes
-433,0 Star,yw0r523m,433,https://www.speedrun.com/sm64/run/yw0r523m,2021-03-02T05:17:42Z,7172,7172,zx7d74vx,Tabbyztorm,Pakistan,EMU,Yes
-434,0 Star,z0p5oeoy,434,https://www.speedrun.com/sm64/run/z0p5oeoy,2022-04-28T09:16:51Z,7175,7175,8dw4e5lj,Divine,Austria,N64,Yes
-435,0 Star,m78qre5z,435,https://www.speedrun.com/sm64/run/m78qre5z,2021-01-26T04:29:39Z,7179,7179,v8l04qv8,Smurfy,Canada,N64,Yes
-436,0 Star,y2vdl39z,436,https://www.speedrun.com/sm64/run/y2vdl39z,2021-02-01T09:01:55Z,7181,7181,18v3m25x,chomsky,United States,N64,Yes
-437,0 Star,y65dl8jz,437,https://www.speedrun.com/sm64/run/y65dl8jz,2020-05-17T01:04:44Z,7182,7182,8v55rmej,Seiozi,United States,N64,Yes
-438,0 Star,mrn36jgy,438,https://www.speedrun.com/sm64/run/mrn36jgy,2021-11-26T01:41:19Z,7183,7183,zxz9n948,tayyip,,EMU,Yes
-439,0 Star,9mer139z,439,https://www.speedrun.com/sm64/run/9mer139z,2017-03-19T03:01:05Z,7188,7188,e8e965pj,Leonostic,United States,EMU,Yes
-440,0 Star,ywjpovnz,439,https://www.speedrun.com/sm64/run/ywjpovnz,2021-12-16T19:34:03Z,7188,7188,kj96k9oj,AndySandford,Norway,EMU,Yes
-441,0 Star,z0x95o4z,439,https://www.speedrun.com/sm64/run/z0x95o4z,2023-10-08T16:37:48Z,7188,7188,86n94m0x,Joanbros,France,EMU,Yes
-442,0 Star,1zqqxrzl,442,https://www.speedrun.com/sm64/run/1zqqxrzl,,7190,7190,,,,N64,Yes
-443,0 Star,mee5v18m,443,https://www.speedrun.com/sm64/run/mee5v18m,2023-04-04T00:31:54Z,7192,7192,jnzd1m1j,RJ7k,United States,N64,Yes
-444,0 Star,mk54pq5m,444,https://www.speedrun.com/sm64/run/mk54pq5m,2021-07-31T18:46:39Z,7194,7194,qj233nxk,lackattack,United States,N64,Yes
-445,0 Star,yd2rj3vm,445,https://www.speedrun.com/sm64/run/yd2rj3vm,2023-10-26T03:55:31Z,7198,7198,8lpgwllj,Vadien,United States,N64,Yes
-446,0 Star,7z0qv9m5,446,https://www.speedrun.com/sm64/run/7z0qv9m5,,7199,7199,,,,N64,No
-447,0 Star,z0p4jxjy,446,https://www.speedrun.com/sm64/run/z0p4jxjy,2022-07-20T05:43:38Z,7199,7199,j4r5lm58,Dorious,Australia,N64,Yes
-448,0 Star,zqjrq1rm,446,https://www.speedrun.com/sm64/run/zqjrq1rm,2023-05-17T16:15:49Z,7199,7199,e8e99opj,Groove_Heaven,United States,N64,Yes
-449,0 Star,0y6ek6z7,446,https://www.speedrun.com/sm64/run/0y6ek6z7,,7199,7199,,,,N64,No
-450,0 Star,y2ke2n6y,450,https://www.speedrun.com/sm64/run/y2ke2n6y,2023-11-26T07:09:51Z,7201,7201,8dw9onoj,JoeyBagODonuts,United States,EMU,Yes
-451,0 Star,y20x579m,451,https://www.speedrun.com/sm64/run/y20x579m,2022-01-06T14:34:58Z,7206,7206,j2y0pkl8,TobiiSR,Austria,VC,Yes
-452,0 Star,y9810eez,452,https://www.speedrun.com/sm64/run/y9810eez,2023-05-27T23:01:08Z,7217,7217,8rprrndj,N8rBeans,United States,N64,Yes
-453,0 Star,ydg3rnwy,453,https://www.speedrun.com/sm64/run/ydg3rnwy,2022-12-12T02:40:22Z,7231,7231,7j43q6w8,JayBeanz,United States,N64,Yes
-454,0 Star,7z00w9z5,454,https://www.speedrun.com/sm64/run/7z00w9z5,,7233,7233,,,,EMU,Yes
-455,0 Star,yjxw4wnz,455,https://www.speedrun.com/sm64/run/yjxw4wnz,2022-02-06T18:13:20Z,7234,7234,jmomloe8,Kaug,Japan,VC,Yes
-456,0 Star,m3lxj3qm,456,https://www.speedrun.com/sm64/run/m3lxj3qm,2023-02-07T10:40:15Z,7240,7240,o86npyqx,Gloggekawa,Germany,VC,Yes
-457,0 Star,zx38o28z,457,https://www.speedrun.com/sm64/run/zx38o28z,2023-07-01T21:22:43Z,7255,7255,18veed2j,Castle,Canada,VC,Yes
-458,0 Star,8y8p5dz1,458,https://www.speedrun.com/sm64/run/8y8p5dz1,,7259,7259,,,,N64,No
-459,0 Star,z0lw90ez,459,https://www.speedrun.com/sm64/run/z0lw90ez,2022-07-29T18:26:15Z,7260,7260,j96w46oj,Sunk,United States,EMU,Yes
-460,0 Star,melnlw0z,460,https://www.speedrun.com/sm64/run/melnlw0z,2023-08-01T06:13:53Z,7267,7267,8w1rr94x,sanj,Canada,EMU,Yes
-461,0 Star,ydjrx8wy,461,https://www.speedrun.com/sm64/run/ydjrx8wy,2023-06-13T01:38:20Z,7275,7275,y8dwq59j,zg53,United States,N64,Yes
-462,0 Star,zgpdlpnz,462,https://www.speedrun.com/sm64/run/zgpdlpnz,2022-05-26T05:42:06Z,7277,7277,1xyozvjr,Flygonman,United States,VC,Yes
-463,0 Star,y4evglkm,463,https://www.speedrun.com/sm64/run/y4evglkm,2020-12-30T16:02:20Z,7278,7278,v8lv6q7j,runner_cam,United States,N64,Yes
-464,0 Star,y25qrq5y,464,https://www.speedrun.com/sm64/run/y25qrq5y,2020-04-14T02:52:29Z,7286,7286,jo326wlj,Ratchetx7,United States,N64,Yes
-465,0 Star,y2ep6jjy,465,https://www.speedrun.com/sm64/run/y2ep6jjy,2022-09-08T04:21:09Z,7291,7291,j0vkm73x,druz,United States,EMU,Yes
-466,0 Star,8y86wowm,466,https://www.speedrun.com/sm64/run/8y86wowm,2016-06-22T17:57:35Z,7299,7299,v8l6lv8m,SteveMassey,United States,N64,Yes
-467,0 Star,m3n8dq4y,467,https://www.speedrun.com/sm64/run/m3n8dq4y,2021-03-25T15:19:33Z,7301,7301,zx7w10q8,pierrenoelle,Germany,N64,Yes
-468,0 Star,zg7dkgjz,468,https://www.speedrun.com/sm64/run/zg7dkgjz,2018-10-03T22:02:42Z,7302,7302,v813dylx,Crabshack,Albania,N64,Yes
-469,0 Star,z1l929wm,469,https://www.speedrun.com/sm64/run/z1l929wm,2023-07-21T17:57:10Z,7304,7304,xyovelwj,LiamPlayZelda,United States,VC,Yes
-470,0 Star,yd3575xz,470,https://www.speedrun.com/sm64/run/yd3575xz,2018-08-03T16:16:35Z,7305,7305,zx76l0j7,Sovlo,France,N64,Yes
-471,0 Star,ydwlvjjm,471,https://www.speedrun.com/sm64/run/ydwlvjjm,2022-02-20T16:51:53Z,7306,7306,y8drkylx,Mister_H,France,EMU,Yes
-472,0 Star,zxw75dem,472,https://www.speedrun.com/sm64/run/zxw75dem,2023-11-20T00:27:59Z,7311,7311,xz0v26e8,TylerKwak,United States,N64,No
-473,0 Star,8y8g3dz1,473,https://www.speedrun.com/sm64/run/8y8g3dz1,,7317,7317,,,,EMU,Yes
-474,0 Star,yo7l3l1m,474,https://www.speedrun.com/sm64/run/yo7l3l1m,2021-06-04T01:13:18Z,7318,7318,qjny9d8m,Breadghost,United States,VC,Yes
-475,0 Star,yj1l677y,475,https://www.speedrun.com/sm64/run/yj1l677y,2021-01-27T00:53:27Z,7319,7319,8e956npj,Baybito64,France,EMU,Yes
-476,0 Star,z1l80wgm,476,https://www.speedrun.com/sm64/run/z1l80wgm,2023-06-07T06:53:22Z,7322,7322,j4r4wqv8,SirPlsStop,United States,EMU,Yes
-477,0 Star,m700x3ey,477,https://www.speedrun.com/sm64/run/m700x3ey,2023-07-12T13:56:17Z,7325,7325,x7qoekq8,lostinspeedruns,Italy,EMU,No
-478,0 Star,y2pw539z,478,https://www.speedrun.com/sm64/run/y2pw539z,2022-06-26T17:36:38Z,7326,7326,18v3pdyx,Sailo,Germany,VC,Yes
-479,0 Star,y65j7qpz,479,https://www.speedrun.com/sm64/run/y65j7qpz,2020-07-28T17:56:35Z,7328,7328,48gye018,JalapiÃ±econe,Canada,N64,Yes
-480,0 Star,8yv74oyo,480,https://www.speedrun.com/sm64/run/8yv74oyo,,7341,7341,,,,EMU,No
-481,0 Star,y62g3l6z,481,https://www.speedrun.com/sm64/run/y62g3l6z,2023-07-29T10:15:00Z,7342,7342,xzlelze8,W1cko,Australia,N64,Yes
-482,0 Star,yd2963qm,482,https://www.speedrun.com/sm64/run/yd2963qm,2023-10-15T03:21:50Z,7351,7351,98r6vmg8,Nintendude64,United States,VC,Yes
-483,0 Star,m37wn8wz,483,https://www.speedrun.com/sm64/run/m37wn8wz,2021-10-21T22:49:45Z,7361,7361,j5w9kqwj,Stomr,United States,N64,Yes
-484,0 Star,y4gdpldy,484,https://www.speedrun.com/sm64/run/y4gdpldy,2023-04-16T08:16:11Z,7367,7367,y8d1myg8,Collin_1029,United States,N64,Yes
-485,0 Star,yv2r5jxm,485,https://www.speedrun.com/sm64/run/yv2r5jxm,2021-02-19T03:19:41Z,7372,7372,1xy2m3m8,A.R.,United States,N64,Yes
-486,0 Star,yvpxvk8y,486,https://www.speedrun.com/sm64/run/yvpxvk8y,2023-07-27T11:32:08Z,7377,7377,8g0yzd1x,kelsmont,,N64,Yes
-487,0 Star,y6qrpljz,487,https://www.speedrun.com/sm64/run/y6qrpljz,2023-10-08T03:14:57Z,7378,7378,jml6m9e8,LikelyLana,,EMU,Yes
-488,0 Star,zx3o2n5z,488,https://www.speedrun.com/sm64/run/zx3o2n5z,2023-06-14T23:06:51Z,7382,7382,8dg3z6o8,Domcactus,Canada,EMU,Yes
-489,0 Star,yv804pxm,489,https://www.speedrun.com/sm64/run/yv804pxm,2023-02-03T23:44:22Z,7385,7385,8vkp0nyj,Rici64,Germany,VC,Yes
-490,0 Star,z5pepgnm,490,https://www.speedrun.com/sm64/run/z5pepgnm,2023-07-08T01:03:56Z,7394,7394,18vn9m5j,Kasual,Canada,N64,Yes
-491,0 Star,y80xq8xm,491,https://www.speedrun.com/sm64/run/y80xq8xm,2023-02-04T04:14:28Z,7397,7397,8gezkw7j,Limosick,Mexico,N64,Yes
-492,0 Star,yvpv636y,492,https://www.speedrun.com/sm64/run/yvpv636y,2023-07-15T22:00:31Z,7403,7403,x3w377ej,AbUnderscored,Jordan,EMU,Yes
-493,0 Star,zxn189qm,493,https://www.speedrun.com/sm64/run/zxn189qm,2023-04-12T22:53:10Z,7412,7412,x35dyv7j,Rollerroc,England,VC,Yes
-494,0 Star,mk0gpp5z,493,https://www.speedrun.com/sm64/run/mk0gpp5z,2023-06-11T21:04:03Z,7412,7412,7j4dr45j,wispx,United States,N64,No
-495,0 Star,z5ok355y,495,https://www.speedrun.com/sm64/run/z5ok355y,2017-12-31T05:57:40Z,7415,7415,zxzz24xq,HowToCantaloupe,United States,VC,Yes
-496,0 Star,zx3gokgz,496,https://www.speedrun.com/sm64/run/zx3gokgz,2023-06-10T04:22:27Z,7419,7419,jpmgv4yj,Zeas44,United States,EMU,Yes
-497,0 Star,yd0n6eqz,497,https://www.speedrun.com/sm64/run/yd0n6eqz,2020-12-05T15:12:03Z,7429,7429,pj0y2m3x,Linkx2,Germany,N64,Yes
-498,0 Star,dy45rk3m,498,https://www.speedrun.com/sm64/run/dy45rk3m,2014-12-17T03:22:18Z,7431,7431,qxk4pmj0,TPositive,United States,VC,Yes
-499,0 Star,z1pl6e7z,499,https://www.speedrun.com/sm64/run/z1pl6e7z,2022-06-16T09:32:31Z,7444,7444,8g5kr62j,NaturallyAllen,United States,EMU,Yes
-500,0 Star,y2qngo6y,500,https://www.speedrun.com/sm64/run/y2qngo6y,2019-02-11T01:26:52Z,7445,7445,qxkm7g7j,meowmix_fan,United States,VC,Yes
-501,0 Star,y4gnw0ny,500,https://www.speedrun.com/sm64/run/y4gnw0ny,2023-03-17T19:03:02Z,7445,7445,1xy51wv8,Kosmic,United States,N64,Yes
+,id,place,speedrun_link,submitted_date,primary_time_seconds,real_time_seconds,player_id,player_name,player_country,platform,verified
+0,m3krj5dy,1,https://www.speedrun.com/sm64/run/m3krj5dy,2023-10-27T05:02:28Z,376.6,376.6,jn32931x,Suigi,Canada,N64,Yes
+1,ywjg8w9z,2,https://www.speedrun.com/sm64/run/ywjg8w9z,2022-02-12T20:34:19Z,387.38,387.38,7j40gpw8,KANNO,,N64,Yes
+2,ydjw8wvy,3,https://www.speedrun.com/sm64/run/ydjw8wvy,2023-06-19T17:17:00Z,388.13,388.13,qj2rklpx,cjrokokomero,Italy,N64,Yes
+3,y2ggv4jz,4,https://www.speedrun.com/sm64/run/y2ggv4jz,2023-07-11T15:17:29Z,390.65,390.65,8wkzer38,Parsee02,Japan,N64,Yes
+4,mr988ogm,5,https://www.speedrun.com/sm64/run/mr988ogm,2020-09-19T08:25:25Z,392.15,392.15,kj92gmv8,Dowsky,United States,N64,Yes
+5,yoo7n61y,6,https://www.speedrun.com/sm64/run/yoo7n61y,2023-10-26T07:02:59Z,393.0,393.0,xk3nmqk8,DuckTapeDuck,,EMU,Yes
+6,y6qdo8pz,7,https://www.speedrun.com/sm64/run/y6qdo8pz,2023-10-26T00:53:17Z,393.1,393.1,8vkrw22j,Tag609,United States,N64,Yes
+7,y2jpjn9z,8,https://www.speedrun.com/sm64/run/y2jpjn9z,2023-02-01T06:47:01Z,393.25,393.25,18q652oj,Poke,United States,N64,Yes
+8,mrlp2ndm,9,https://www.speedrun.com/sm64/run/mrlp2ndm,2023-08-23T02:15:03Z,403.0,403.0,xkmnnmmj,ZUMMI,Italy,EMU,Yes
+9,8yv24rem,10,https://www.speedrun.com/sm64/run/8yv24rem,2015-08-07T21:20:12Z,404.23,404.23,,,,N64,Yes
+10,dy4jg0ny,11,https://www.speedrun.com/sm64/run/dy4jg0ny,2016-10-25T19:03:39Z,404.7,404.7,o866w58z,Xiah,Japan,N64,Yes
+11,mrr912dm,12,https://www.speedrun.com/sm64/run/mrr912dm,2022-08-17T05:40:11Z,405.67,405.67,68w4ro4x,wara,Japan,N64,Yes
+12,z0lv9p8z,13,https://www.speedrun.com/sm64/run/z0lv9p8z,2022-11-21T15:48:50Z,406.1,406.1,18qowewj,Majoog,South Korea,N64,Yes
+13,m7g1k9em,14,https://www.speedrun.com/sm64/run/m7g1k9em,2020-03-31T00:27:14Z,408.0,408.0,dx35yzej,TriforceTK,United States,EMU,Yes
+14,y6r7wn0y,14,https://www.speedrun.com/sm64/run/y6r7wn0y,2020-09-17T07:21:59Z,408.0,408.0,1xy9p1vj,taihou,Japan,EMU,No
+15,y2g8507z,14,https://www.speedrun.com/sm64/run/y2g8507z,2023-08-04T09:13:52Z,408.0,408.0,xyrqdwmj,Zhilkan,Spain,EMU,Yes
+16,yd1ervvy,17,https://www.speedrun.com/sm64/run/yd1ervvy,2022-08-28T16:25:19Z,408.4,408.4,qjoolrej,nobori56,Japan,N64,Yes
+17,z0x6goez,18,https://www.speedrun.com/sm64/run/z0x6goez,2023-10-21T09:38:26Z,409.57,409.57,qj23lpxk,Miton,Japan,N64,Yes
+18,y48v3wqm,19,https://www.speedrun.com/sm64/run/y48v3wqm,2022-03-10T23:43:58Z,410.17,410.17,0jm36qe8,Xein64,Germany,N64,Yes
+19,z5pqggjm,20,https://www.speedrun.com/sm64/run/z5pqggjm,2023-08-29T08:36:22Z,412.05,412.05,j96ww5vj,asandal,United States,N64,Yes
+20,me1vq13y,21,https://www.speedrun.com/sm64/run/me1vq13y,2022-07-31T22:11:20Z,412.31,412.31,qxk4wo6j,saksdal,United States,N64,Yes
+21,yon4rgdz,22,https://www.speedrun.com/sm64/run/yon4rgdz,2023-05-02T08:41:00Z,413.0,413.0,jnzgrmwj,CyanogenSm64,Uzbekistan,VC,No
+22,z1lv8x7m,22,https://www.speedrun.com/sm64/run/z1lv8x7m,2023-07-30T16:58:33Z,413.0,413.0,kj9z6pn8,Sunnard,France,EMU,Yes
+23,yv8nvvom,24,https://www.speedrun.com/sm64/run/yv8nvvom,2023-03-13T22:57:47Z,413.05,413.05,j4rpn7d8,Nils,Sweden,N64,Yes
+24,m70do89y,25,https://www.speedrun.com/sm64/run/m70do89y,2023-06-11T23:16:22Z,413.83,413.83,8vo90m5x,Nicolascs83,Spain,N64,Yes
+25,z0ogd1ez,26,https://www.speedrun.com/sm64/run/z0ogd1ez,2022-03-25T17:49:38Z,414.0,414.0,8lp7rqrj,kiliaaan,Germany,EMU,Yes
+26,yvpnp94y,27,https://www.speedrun.com/sm64/run/yvpnp94y,2023-08-01T03:33:25Z,414.66,414.66,8r2w1n3x,Kinosura,France,N64,Yes
+27,y2gkd4wz,28,https://www.speedrun.com/sm64/run/y2gkd4wz,2023-07-16T06:54:29Z,415.26,415.26,xzlelze8,xWicko,Australia,N64,Yes
+28,z5e9wp5z,29,https://www.speedrun.com/sm64/run/z5e9wp5z,2023-04-21T18:41:58Z,415.56,415.56,8wlk4n4j,Kaimatix,England,N64,Yes
+29,0y6j56jm,30,https://www.speedrun.com/sm64/run/0y6j56jm,2016-11-14T01:13:01Z,415.98,415.98,qxkovg98,gohanie,Japan,N64,Yes
+30,z5kdjg5z,31,https://www.speedrun.com/sm64/run/z5kdjg5z,2023-10-31T00:16:34Z,417.0,417.0,8d35ly5x,RetroTorpedo,Germany,EMU,Yes
+31,y9vkxnvm,32,https://www.speedrun.com/sm64/run/y9vkxnvm,2022-06-19T19:53:51Z,417.11,417.11,7j4mzd5j,Thomkar,Norway,N64,Yes
+32,z0948jjz,33,https://www.speedrun.com/sm64/run/z0948jjz,2021-01-03T20:50:58Z,418.0,418.0,x353dr7j,Finnii602,Germany,VC,Yes
+33,z0j0k3jy,33,https://www.speedrun.com/sm64/run/z0j0k3jy,2023-08-07T05:39:16Z,418.0,418.0,8e6vr17j,piegolds,Australia,EMU,Yes
+34,y2kv4q6y,33,https://www.speedrun.com/sm64/run/y2kv4q6y,2023-10-20T22:56:05Z,418.0,418.0,8e6k1loj,PhoenixAUS,Australia,VC,Yes
+35,y8dj04xz,36,https://www.speedrun.com/sm64/run/y8dj04xz,2021-05-22T04:46:11Z,419.05,419.05,qjned9qj,tami,Japan,N64,Yes
+36,yjdj0g3y,37,https://www.speedrun.com/sm64/run/yjdj0g3y,2022-07-31T21:44:30Z,419.08,419.08,j2ylqn68,Karin,Japan,N64,Yes
+37,mroenx2m,38,https://www.speedrun.com/sm64/run/mroenx2m,2022-12-20T01:18:39Z,419.16,419.16,zxzn3w9x,spener1122,Canada,N64,Yes
+38,yvv2386y,39,https://www.speedrun.com/sm64/run/yvv2386y,2023-10-15T06:24:41Z,419.68,419.68,8w139m3x,oatslice,Australia,N64,Yes
+39,mrlplj7m,40,https://www.speedrun.com/sm64/run/mrlplj7m,2023-08-22T20:04:12Z,419.76,419.76,86nnlvqx,Banova8,France,N64,Yes
+40,z5xlg2ny,41,https://www.speedrun.com/sm64/run/z5xlg2ny,2022-10-15T18:53:52Z,420.0,420.0,18q6977j,Burnito,France,N64,Yes
+41,y4grwqdy,41,https://www.speedrun.com/sm64/run/y4grwqdy,2023-01-12T20:35:33Z,420.0,420.0,jnz2ykqj,ShaDowSPoweR,France,EMU,Yes
+42,y6okpnjy,43,https://www.speedrun.com/sm64/run/y6okpnjy,2023-04-16T22:14:24Z,421.0,421.0,8enge328,BenedictFleur123,Netherlands,EMU,Yes
+43,m7pknkem,44,https://www.speedrun.com/sm64/run/m7pknkem,2019-04-26T11:46:52Z,424.0,424.0,zxzpz50j,Fafel,Japan,N64,Yes
+44,z5d68e5m,45,https://www.speedrun.com/sm64/run/z5d68e5m,2021-11-04T18:55:34Z,430.0,430.0,e8evzg7x,gamiru,Japan,N64,No
+45,y9x74r2y,46,https://www.speedrun.com/sm64/run/y9x74r2y,2022-08-05T00:55:36Z,434.0,434.0,8rpp0egj,Bluth,United States,N64,No
+46,yjwgxvdm,46,https://www.speedrun.com/sm64/run/yjwgxvdm,2023-10-25T01:17:03Z,434.0,434.0,jmolpwo8,Raisn,Germany,EMU,Yes
+47,z1p7x9jz,48,https://www.speedrun.com/sm64/run/z1p7x9jz,2022-07-10T21:37:48Z,435.0,435.0,kjpqrr4x,Goldrush,Japan,N64,Yes
+48,yl1vl72m,48,https://www.speedrun.com/sm64/run/yl1vl72m,2022-08-18T07:02:17Z,435.0,435.0,j0324nmj,MrDasho,Ecuador,EMU,Yes
+49,me30vp9z,50,https://www.speedrun.com/sm64/run/me30vp9z,2022-06-17T17:48:25Z,437.0,437.0,x7m9r50x,SaschaSR,Germany,EMU,Yes
+50,yl7lj42m,51,https://www.speedrun.com/sm64/run/yl7lj42m,2022-06-20T22:25:08Z,439.0,439.0,zxzqlnrx,Cysse,France,EMU,Yes
+51,ywnvl3ny,52,https://www.speedrun.com/sm64/run/ywnvl3ny,2023-12-05T22:23:00Z,440.0,440.0,pj0l653j,FailmanFlo,Germany,N64,Yes
+52,oy2n26yd,53,https://www.speedrun.com/sm64/run/oy2n26yd,,441.0,441.0,,,,N64,Yes
+53,7z08d4m5,53,https://www.speedrun.com/sm64/run/7z08d4m5,,441.0,441.0,18qnw78n,Mese,Japan,N64,Yes
+54,zx3l22qz,53,https://www.speedrun.com/sm64/run/zx3l22qz,2023-06-20T14:18:11Z,441.0,441.0,v816eo5x,Soda,,N64,Yes
+55,wzp7ll8z,56,https://www.speedrun.com/sm64/run/wzp7ll8z,2017-03-13T21:24:34Z,443.0,443.0,,,,N64,Yes
+56,yo44dldm,56,https://www.speedrun.com/sm64/run/yo44dldm,2017-04-30T14:24:03Z,443.0,443.0,qjn9dwxm,360Chrism,Germany,VC,Yes
+57,yvo5ro8z,56,https://www.speedrun.com/sm64/run/yvo5ro8z,2021-11-03T12:51:19Z,443.0,443.0,86vq7g3j,nono_6328,Japan,N64,No
+58,yvp064ey,56,https://www.speedrun.com/sm64/run/yvp064ey,2023-07-01T00:48:12Z,443.0,443.0,j5wo65gj,Blahaj64,Canada,N64,Yes
+59,0y6gv1m7,60,https://www.speedrun.com/sm64/run/0y6gv1m7,,445.0,445.0,,,,N64,Yes
+60,yllnx9xy,60,https://www.speedrun.com/sm64/run/yllnx9xy,2023-12-03T05:01:55Z,445.0,445.0,xylw0wmj,Linkarf,Québec,N64,Yes
+61,y9668wey,62,https://www.speedrun.com/sm64/run/y9668wey,2023-02-12T17:37:16Z,446.0,446.0,qj2z19nj,TheCrit,United States,EMU,Yes
+62,znp54l3m,63,https://www.speedrun.com/sm64/run/znp54l3m,2022-07-09T21:27:32Z,447.0,447.0,7j4epgvx,Mcnessyj,New Zealand,N64,Yes
+63,y9lg7pky,64,https://www.speedrun.com/sm64/run/y9lg7pky,2022-03-10T21:53:19Z,448.0,448.0,zxzzzrxq,Moose,United States,N64,Yes
+64,yj4pq2gy,65,https://www.speedrun.com/sm64/run/yj4pq2gy,2018-10-30T10:18:58Z,449.0,449.0,7j4drzdj,AppleJuice,United States,EMU,Yes
+65,yon76rjz,66,https://www.speedrun.com/sm64/run/yon76rjz,2023-06-10T05:50:36Z,450.0,450.0,jm3lqln8,Mauir,Chile,EMU,Yes
+66,y860e61m,66,https://www.speedrun.com/sm64/run/y860e61m,2023-07-06T23:19:29Z,450.0,450.0,8v5253yj,taciturn,United States,EMU,Yes
+67,y8008d5m,68,https://www.speedrun.com/sm64/run/y8008d5m,2023-02-11T22:20:36Z,452.0,452.0,j425r0wx,enzn,Canada,N64,Yes
+68,mel3ol0z,68,https://www.speedrun.com/sm64/run/mel3ol0z,2023-06-26T01:09:18Z,452.0,452.0,x7qqopy8,Kudo,France,N64,Yes
+69,zx7qxjey,70,https://www.speedrun.com/sm64/run/zx7qxjey,2022-06-24T17:56:25Z,453.0,453.0,qxkm6mj0,Kyman,Canada,N64,Yes
+70,z1k3ongy,70,https://www.speedrun.com/sm64/run/z1k3ongy,2023-09-13T02:59:02Z,453.0,453.0,qjomp63x,Frisson4,Québec,N64,Yes
+71,mk841ovm,72,https://www.speedrun.com/sm64/run/mk841ovm,2020-09-16T05:59:20Z,454.0,454.0,qjoq7yl8,KevinKrunch,United States,N64,Yes
+72,y69ngnjy,73,https://www.speedrun.com/sm64/run/y69ngnjy,2021-09-08T01:52:19Z,455.0,455.0,98re9d6x,Psyduck64,United States,N64,Yes
+73,zgelp3ny,73,https://www.speedrun.com/sm64/run/zgelp3ny,2023-07-21T19:16:06Z,455.0,455.0,j4rg3z58,CheesyLeech,United States,N64,No
+74,zpgpodrz,75,https://www.speedrun.com/sm64/run/zpgpodrz,2023-02-25T06:05:29Z,456.0,456.0,j4232gmx,VonJim,Québec,N64,Yes
+75,z0j73pey,76,https://www.speedrun.com/sm64/run/z0j73pey,2023-06-14T12:52:22Z,457.0,457.0,8vkn1mnj,madware,Chile,N64,Yes
+76,y4o6nknz,76,https://www.speedrun.com/sm64/run/y4o6nknz,2023-07-23T12:33:39Z,457.0,457.0,zxz1vorj,Karyno,France,N64,Yes
+77,yjwwo5nm,78,https://www.speedrun.com/sm64/run/yjwwo5nm,2023-12-18T21:05:25Z,460.0,460.0,j4rpdvw8,DerMuriToaster,Germany,EMU,Yes
+78,zxwn768m,79,https://www.speedrun.com/sm64/run/zxwn768m,2023-12-01T07:34:54Z,461.0,461.0,v8lgdovj,Drac,Brazil,N64,Yes
+79,yjp9dr7y,80,https://www.speedrun.com/sm64/run/yjp9dr7y,2022-06-28T04:54:25Z,462.0,462.0,68wzrnv8,aussieadam,United States,EMU,Yes
+80,mke03vlm,81,https://www.speedrun.com/sm64/run/mke03vlm,2022-02-02T14:15:51Z,463.0,463.0,48g23pyj,galapagos,Japan,N64,Yes
+81,yorge9dy,81,https://www.speedrun.com/sm64/run/yorge9dy,2022-03-20T11:33:15Z,463.0,463.0,xkm3lk7j,Nonag,Germany,EMU,Yes
+82,mel7q93z,83,https://www.speedrun.com/sm64/run/mel7q93z,2023-06-13T10:45:58Z,464.0,464.0,j40y2pv8,Tansan,Japan,N64,Yes
+83,y98nxl2z,84,https://www.speedrun.com/sm64/run/y98nxl2z,2023-06-04T19:22:20Z,465.0,465.0,j2636gox,smc_,Scotland,N64,Yes
+84,zq0rrw8y,85,https://www.speedrun.com/sm64/run/zq0rrw8y,2021-12-18T16:38:25Z,466.0,466.0,8qrgozwj,Oxelput,Germany,N64,Yes
+85,yl7d9grm,85,https://www.speedrun.com/sm64/run/yl7d9grm,2022-06-22T05:03:30Z,466.0,466.0,48geze7j,heeheex2,Canada,VC,Yes
+86,y8xdl2dm,87,https://www.speedrun.com/sm64/run/y8xdl2dm,2022-08-26T15:39:01Z,468.0,468.0,1xy05zjr,turara32767,Japan,N64,Yes
+87,m35l976y,88,https://www.speedrun.com/sm64/run/m35l976y,2020-06-18T22:50:52Z,469.0,469.0,1xyldrvj,anti,,N64,Yes
+88,7z0pnw4y,89,https://www.speedrun.com/sm64/run/7z0pnw4y,2016-02-20T15:12:15Z,470.0,470.0,qjn3egwx,Babass_21,France,EMU,Yes
+89,mr7ox67z,90,https://www.speedrun.com/sm64/run/mr7ox67z,2022-06-10T13:15:07Z,471.0,471.0,8rpv21dj,ZeusSM64,New Zealand,EMU,Yes
+90,8yvnx4mo,91,https://www.speedrun.com/sm64/run/8yvnx4mo,,472.0,472.0,e8e6k12j,kumasyatyou,Japan,N64,No
+91,nz11j7rz,92,https://www.speedrun.com/sm64/run/nz11j7rz,2015-02-11T11:31:53Z,473.0,473.0,zx7qg687,ParadoxKarl,Esperanto,N64,Yes
+92,y4qkro2m,92,https://www.speedrun.com/sm64/run/y4qkro2m,2022-06-19T02:13:37Z,473.0,473.0,zx7gkrx7,alaris,United States,N64,No
+93,zpp958vz,92,https://www.speedrun.com/sm64/run/zpp958vz,2023-11-20T01:24:33Z,473.0,473.0,8q3g5goj,TaylorSwiftSimp,United States,N64,Yes
+94,meo33x9z,95,https://www.speedrun.com/sm64/run/meo33x9z,2020-06-07T22:19:14Z,474.0,474.0,qjo5lrl8,SaltAndGinger,Jersey,N64,Yes
+95,yolqe7jy,95,https://www.speedrun.com/sm64/run/yolqe7jy,2023-03-14T22:22:02Z,474.0,474.0,8r7wykdj,quarters,,N64,Yes
+96,ywj6lj2z,97,https://www.speedrun.com/sm64/run/ywj6lj2z,2022-01-27T05:50:52Z,475.0,475.0,xk41ok7j,Cosmalano,,N64,Yes
+97,znpn3rvm,97,https://www.speedrun.com/sm64/run/znpn3rvm,2022-07-22T19:13:51Z,475.0,475.0,jo2l6w78,PabloDiazViolin,Spain,N64,Yes
+98,yvpnpjey,97,https://www.speedrun.com/sm64/run/yvpnpjey,2023-08-01T03:01:53Z,475.0,475.0,81qn9n5j,turtlehippo,Canada,N64,Yes
+99,meelov9m,100,https://www.speedrun.com/sm64/run/meelov9m,2023-02-16T16:24:07Z,476.0,476.0,qjo0ge7j,millacks,Ireland,VC,Yes
+100,y6l0l81y,101,https://www.speedrun.com/sm64/run/y6l0l81y,2019-09-29T06:00:54Z,478.0,478.0,5j5r396x,YUKING,Japan,N64,Yes
+101,y60xgrqy,101,https://www.speedrun.com/sm64/run/y60xgrqy,2022-06-05T11:52:38Z,478.0,478.0,86vvqv0j,Dillarune,Indonesia,EMU,Yes
+102,mrl1kq4m,101,https://www.speedrun.com/sm64/run/mrl1kq4m,2023-06-09T04:11:43Z,478.0,478.0,8rlr3pg8,siggyscorp,United States,N64,Yes
+103,zx3ow55z,104,https://www.speedrun.com/sm64/run/zx3ow55z,2023-06-17T12:42:08Z,479.0,479.0,j9rd5koj,taquanrice,Japan,N64,Yes
+104,yvvqgj4y,104,https://www.speedrun.com/sm64/run/yvvqgj4y,2023-11-06T17:08:03Z,479.0,479.0,j2wrvyoj,Tanishy,Japan,N64,No
+105,z1pnxj9z,106,https://www.speedrun.com/sm64/run/z1pnxj9z,2022-06-27T12:36:08Z,481.0,481.0,8end5g78,SonicGordon6,United States,EMU,Yes
+106,ywrxol3m,107,https://www.speedrun.com/sm64/run/ywrxol3m,2023-07-28T18:06:37Z,482.0,482.0,8lpl934j,PegiTheLoca,Germany,EMU,Yes
+107,yjw5kknm,108,https://www.speedrun.com/sm64/run/yjw5kknm,2023-10-29T21:37:14Z,483.0,483.0,81kddqpj,dekitan,,N64,Yes
+108,yddjw6wy,109,https://www.speedrun.com/sm64/run/yddjw6wy,2022-06-14T03:46:42Z,486.0,486.0,8rprrndj,N8rBeans,United States,N64,Yes
+109,m70011ey,110,https://www.speedrun.com/sm64/run/m70011ey,2023-07-10T03:11:15Z,487.0,487.0,zxz67wn8,AJLane,United States,N64,Yes
+110,emkx42vz,111,https://www.speedrun.com/sm64/run/emkx42vz,2017-01-09T02:26:07Z,488.0,488.0,5j52e9qj,GUTOA,Japan,N64,Yes
+111,m3n30k4y,112,https://www.speedrun.com/sm64/run/m3n30k4y,2021-02-18T16:20:08Z,489.0,489.0,kjp07yy8,SilverCross,United States,N64,Yes
+112,y4q03xkm,113,https://www.speedrun.com/sm64/run/y4q03xkm,2022-07-09T19:57:04Z,490.0,490.0,7j4q7emx,eleesuh,Germany,N64,Yes
+113,meld000z,113,https://www.speedrun.com/sm64/run/meld000z,2023-08-17T10:16:49Z,490.0,490.0,e8ewrz78,ariapath,Australia,EMU,Yes
+114,yjxv8ldz,115,https://www.speedrun.com/sm64/run/yjxv8ldz,2022-03-19T00:50:09Z,491.0,491.0,zxze4qex,caleb2112,United States,N64,Yes
+115,2ywwxpy4,116,https://www.speedrun.com/sm64/run/2ywwxpy4,,492.0,492.0,v81kkerj,aKaFuKu,Japan,N64,Yes
+116,z57p2onm,116,https://www.speedrun.com/sm64/run/z57p2onm,2019-11-17T22:48:45Z,492.0,492.0,7j47lplj,dumpdome64,United States,EMU,Yes
+117,m7021qey,116,https://www.speedrun.com/sm64/run/m7021qey,2023-07-05T06:32:29Z,492.0,492.0,1xyqkgz8,Sanklo,Argentina,EMU,Yes
+118,y6rdr5py,119,https://www.speedrun.com/sm64/run/y6rdr5py,2020-10-25T19:31:46Z,493.0,493.0,jmo4ewn8,Mathematix,United States,EMU,Yes
+119,z0o2xloz,120,https://www.speedrun.com/sm64/run/z0o2xloz,2022-03-13T19:18:31Z,494.0,494.0,zx7gnyx7,Dwhatever,Germany,N64,Yes
+120,yvredo4z,120,https://www.speedrun.com/sm64/run/yvredo4z,2022-07-17T20:14:00Z,494.0,494.0,y8dz54gj,maosfx,United States,N64,Yes
+121,y88nlw1y,122,https://www.speedrun.com/sm64/run/y88nlw1y,2022-07-12T23:47:45Z,495.0,495.0,5j5gwr68,Speedrun,United States,EMU,Yes
+122,zgq230vy,122,https://www.speedrun.com/sm64/run/zgq230vy,2022-09-14T10:00:43Z,495.0,495.0,8g547vyj,RealPrimeSub,United States,EMU,Yes
+123,meeqdj9m,122,https://www.speedrun.com/sm64/run/meeqdj9m,2023-04-15T16:13:03Z,495.0,495.0,v8l04qv8,Smurfy,Canada,N64,Yes
+124,y863xpnm,122,https://www.speedrun.com/sm64/run/y863xpnm,2023-04-26T16:12:34Z,495.0,495.0,86n94m0x,Joanbros,France,EMU,Yes
+125,mrlvjg2m,122,https://www.speedrun.com/sm64/run/mrlvjg2m,2023-07-19T21:31:34Z,495.0,495.0,8v55qvej,Lucinovic,Netherlands,N64,Yes
+126,z0e5w04m,127,https://www.speedrun.com/sm64/run/z0e5w04m,2017-06-20T05:33:28Z,496.0,496.0,e8e6edj0,GothicLogic,United Kingdom,N64,Yes
+127,6yje93md,128,https://www.speedrun.com/sm64/run/6yje93md,,497.0,497.0,,,,N64,Yes
+128,z0ov6eoz,128,https://www.speedrun.com/sm64/run/z0ov6eoz,2022-03-29T03:44:32Z,497.0,497.0,98rl4w38,HorrorDoesSpeedRuns,United States,N64,Yes
+129,yvr8216z,130,https://www.speedrun.com/sm64/run/yvr8216z,2022-06-08T04:56:36Z,498.0,498.0,qxkovr28,zach,United States,N64,Yes
+130,yvppe38y,130,https://www.speedrun.com/sm64/run/yvppe38y,2023-07-14T06:08:26Z,498.0,498.0,8v5nwrnj,Michaelguy,United States,EMU,Yes
+131,y9vj7nrm,132,https://www.speedrun.com/sm64/run/y9vj7nrm,2022-06-22T02:28:38Z,499.0,499.0,98rv2rdj,Perna64,United States,N64,Yes
+132,7ylpxkmp,133,https://www.speedrun.com/sm64/run/7ylpxkmp,,500.0,500.0,,,,N64,No
+133,zpw2n3gy,133,https://www.speedrun.com/sm64/run/zpw2n3gy,2023-06-19T16:58:18Z,500.0,500.0,18q5www8,BigfootTouchedMe,Australia,EMU,Yes
+134,ydd4o60y,135,https://www.speedrun.com/sm64/run/ydd4o60y,2022-07-08T15:02:30Z,501.0,501.0,xz9z40r8,zMatt_,Italy,N64,No
+135,yvp92oey,136,https://www.speedrun.com/sm64/run/yvp92oey,2023-05-28T09:51:22Z,502.0,502.0,pj0rd9mj,reGemini,Australia,EMU,Yes
+136,yvpon8xy,136,https://www.speedrun.com/sm64/run/yvpon8xy,2023-06-18T01:36:17Z,502.0,502.0,pj0mn69x,B1GEY3DPYTH0N,,N64,Yes
+137,pzgjovz2,138,https://www.speedrun.com/sm64/run/pzgjovz2,,503.0,503.0,,,,N64,Yes
+138,zpwk38xy,138,https://www.speedrun.com/sm64/run/zpwk38xy,2023-07-30T16:57:57Z,503.0,503.0,x7wzv1v8,ADRki11er,Brazil,EMU,Yes
+139,9meng9m7,140,https://www.speedrun.com/sm64/run/9meng9m7,2023-10-04T18:54:05Z,504.0,504.0,,,,N64,Yes
+140,zgqn38ey,140,https://www.speedrun.com/sm64/run/zgqn38ey,2022-08-01T04:20:58Z,504.0,504.0,v810d5rx,SubmarineCpt,United States,EMU,Yes
+141,z05k0jom,142,https://www.speedrun.com/sm64/run/z05k0jom,2020-08-09T05:03:05Z,507.0,507.0,o86q79qx,YobunTeme,Japan,N64,Yes
+142,mk0704xz,143,https://www.speedrun.com/sm64/run/mk0704xz,2023-06-05T04:49:53Z,508.0,508.0,x72zygq8,Avasion,United States,EMU,Yes
+143,melelq2z,144,https://www.speedrun.com/sm64/run/melelq2z,2023-07-08T02:02:07Z,509.0,509.0,8gee0n2j,Doginator,United States,N64,Yes
+144,yvq5p7xm,145,https://www.speedrun.com/sm64/run/yvq5p7xm,2022-03-07T21:17:19Z,512.0,512.0,18vdp928,FrostySeason,Sweden,N64,Yes
+145,y62okl6z,146,https://www.speedrun.com/sm64/run/y62okl6z,2023-07-09T23:09:38Z,513.0,513.0,joo4ykej,Battaflai,Germany,EMU,Yes
+146,znp350vm,147,https://www.speedrun.com/sm64/run/znp350vm,2022-05-06T18:53:50Z,514.0,514.0,18v7n5n8,Nyx64,,EMU,Yes
+147,zqv68e9m,148,https://www.speedrun.com/sm64/run/zqv68e9m,2021-07-31T18:22:24Z,515.0,515.0,7j43q6w8,JayBeanz,United States,N64,Yes
+148,mk4w3dvy,149,https://www.speedrun.com/sm64/run/mk4w3dvy,2018-02-20T21:46:22Z,516.0,516.0,kjp9p28q,Sigotu,Poland,EMU,Yes
+149,y65kdn1z,149,https://www.speedrun.com/sm64/run/y65kdn1z,2020-08-31T05:20:59Z,516.0,516.0,qxkk329x,SSPssp,South Korea,EMU,Yes
+150,z52eo05z,151,https://www.speedrun.com/sm64/run/z52eo05z,2022-06-07T02:13:44Z,517.0,517.0,8qz5qoq8,BizzareScape,Mexico,N64,Yes
+151,nz1lov9m,152,https://www.speedrun.com/sm64/run/nz1lov9m,2016-06-07T09:37:48Z,518.0,518.0,18vkpkyj,KobrahCJ,United States,N64,Yes
+152,zqj8nv9m,153,https://www.speedrun.com/sm64/run/zqj8nv9m,2023-07-23T19:19:13Z,519.0,519.0,jn9qe22x,Famin,United States,EMU,Yes
+153,z1lw4g9m,154,https://www.speedrun.com/sm64/run/z1lw4g9m,2023-09-04T19:01:26Z,520.0,520.0,8r3064w8,JTown2909,United States,N64,Yes
+154,zx3l97ez,155,https://www.speedrun.com/sm64/run/zx3l97ez,2023-06-19T17:33:29Z,521.0,521.0,863k2ww8,MeepJeep,Germany,N64,Yes
+155,dy4wv2qm,156,https://www.speedrun.com/sm64/run/dy4wv2qm,2015-06-17T07:18:19Z,523.0,523.0,68wwn48g,Mitagi,Japan,N64,Yes
+156,y9v662nm,157,https://www.speedrun.com/sm64/run/y9v662nm,2022-06-09T14:34:31Z,530.0,530.0,8l02n628,mojopug,Spain,EMU,Yes
+157,y2pggk9z,157,https://www.speedrun.com/sm64/run/y2pggk9z,2022-06-15T03:53:48Z,530.0,530.0,xk4rk32j,Tankfird,United States,EMU,Yes
+158,y9xdrwky,159,https://www.speedrun.com/sm64/run/y9xdrwky,2022-10-10T22:29:00Z,531.0,531.0,xyrwkqwj,Yudalol,Canada,N64,Yes
+159,zpw1r9gy,159,https://www.speedrun.com/sm64/run/zpw1r9gy,2023-06-09T06:45:23Z,531.0,531.0,8r7412qj,Rynnoo,United States,N64,Yes
+160,9yoqx7zx,161,https://www.speedrun.com/sm64/run/9yoqx7zx,,536.0,536.0,dx35r2jl,exe,Germany,N64,Yes
+161,z0jrqe9y,161,https://www.speedrun.com/sm64/run/z0jrqe9y,2023-06-11T22:45:13Z,536.0,536.0,81q1oq5j,Ian_1243,Peru,N64,Yes
+162,y9lk11ey,163,https://www.speedrun.com/sm64/run/y9lk11ey,2022-02-07T04:03:26Z,537.0,537.0,8qzwgr78,toilet64_,United States,N64,Yes
+163,y4e3v6km,164,https://www.speedrun.com/sm64/run/y4e3v6km,2020-09-25T07:00:23Z,539.0,539.0,qjn6qqqx,bann_jpn,Japan,N64,Yes
+164,m3r43jqm,165,https://www.speedrun.com/sm64/run/m3r43jqm,2021-07-11T20:15:14Z,540.0,540.0,jo3o7dej,456Productions,United States,EMU,Yes
+165,yjddnp7y,165,https://www.speedrun.com/sm64/run/yjddnp7y,2022-09-14T00:28:43Z,540.0,540.0,pj0eny48,scoagogo,Northern Ireland,EMU,Yes
+166,yo34jl0y,167,https://www.speedrun.com/sm64/run/yo34jl0y,2020-09-12T19:50:45Z,542.0,542.0,dx394zkx,max25,England,N64,Yes
+167,8y8vg1wz,168,https://www.speedrun.com/sm64/run/8y8vg1wz,2015-09-09T12:14:31Z,543.0,543.0,zx7q2pv8,Beck,United States,N64,Yes
+168,yvq5ro8m,169,https://www.speedrun.com/sm64/run/yvq5ro8m,2022-03-07T00:53:13Z,546.0,546.0,863719q8,BananilsonFarofa,Brazil,EMU,Yes
+169,yj1x767y,170,https://www.speedrun.com/sm64/run/yj1x767y,2021-02-15T15:18:40Z,549.0,549.0,98rrd381,srb,Germany,N64,Yes
+170,yw3p38nm,170,https://www.speedrun.com/sm64/run/yw3p38nm,2022-04-16T21:44:31Z,549.0,549.0,kj90merj,FinW,,N64,Yes
+171,z52g2x5z,170,https://www.speedrun.com/sm64/run/z52g2x5z,2022-06-27T22:19:31Z,549.0,549.0,18qk2m78,DentoriousRed,United States,N64,Yes
+172,y2pke6jz,173,https://www.speedrun.com/sm64/run/y2pke6jz,2022-06-19T21:43:53Z,550.0,550.0,8vkqwknj,GroundPoundGary,United States,EMU,Yes
+173,wzpkx8yq,174,https://www.speedrun.com/sm64/run/wzpkx8yq,,551.0,551.0,,,,N64,Yes
+174,pydvlwyn,175,https://www.speedrun.com/sm64/run/pydvlwyn,,553.0,553.0,,,,N64,No
+175,zqjok78m,176,https://www.speedrun.com/sm64/run/zqjok78m,2023-08-19T20:57:46Z,555.0,555.0,8d3mywlx,ross3102,United States,EMU,Yes
+176,yvgnkroy,177,https://www.speedrun.com/sm64/run/yvgnkroy,2018-02-17T11:33:42Z,558.0,558.0,,,,N64,No
+177,yvrv04ez,178,https://www.speedrun.com/sm64/run/yvrv04ez,2022-06-19T19:14:55Z,559.0,559.0,xkmp5p7j,Puxel64,,EMU,Yes
+178,zq78k3rm,178,https://www.speedrun.com/sm64/run/zq78k3rm,2022-06-21T22:44:04Z,559.0,559.0,8g5772rj,Semaa,Bosnia and Herzegovina,EMU,Yes
+179,z1gj6j9z,178,https://www.speedrun.com/sm64/run/z1gj6j9z,2022-08-11T04:00:14Z,559.0,559.0,xko6o278,Seceon,Chile,N64,Yes
+180,y80d3jdm,181,https://www.speedrun.com/sm64/run/y80d3jdm,2023-01-11T15:46:55Z,563.0,563.0,zx7dz1vx,AlejoWasHere,Spain,EMU,Yes
+181,z0jrk44y,181,https://www.speedrun.com/sm64/run/z0jrk44y,2023-06-12T20:10:08Z,563.0,563.0,xz06gme8,RxCursed,Colombia,EMU,Yes
+182,me97n82z,183,https://www.speedrun.com/sm64/run/me97n82z,2021-02-07T20:33:13Z,564.0,564.0,86v01k5j,camgibb,United States,EMU,Yes
+183,mrlr9j7m,184,https://www.speedrun.com/sm64/run/mrlr9j7m,2023-07-01T06:09:26Z,565.0,565.0,j2w1w5lj,RONC3NA,United States,N64,Yes
+184,me3ok5qz,185,https://www.speedrun.com/sm64/run/me3ok5qz,2022-04-26T13:23:20Z,566.0,566.0,qxkvqp2j,PKT_Distinct,France,N64,Yes
+185,y2grn67z,185,https://www.speedrun.com/sm64/run/y2grn67z,2023-08-12T12:00:55Z,566.0,566.0,8107re5x,skiprandom736,Singapore,EMU,Yes
+186,mk95pnlz,187,https://www.speedrun.com/sm64/run/mk95pnlz,2018-09-27T05:29:05Z,575.0,575.0,kjp9nvk8,fazerlazer80,United States,N64,Yes
+187,mre9px2y,187,https://www.speedrun.com/sm64/run/mre9px2y,2019-07-31T08:44:11Z,575.0,575.0,e8e3m7j0,imglower,United States,N64,Yes
+188,y887lj1y,187,https://www.speedrun.com/sm64/run/y887lj1y,2022-07-25T05:19:57Z,575.0,575.0,7j4o0lm8,BEACHBUM,,N64,Yes
+189,zn1kp89m,190,https://www.speedrun.com/sm64/run/zn1kp89m,2021-04-28T12:19:24Z,576.0,576.0,j2yzn568,gamer_nl,Netherlands,EMU,Yes
+190,yvpodr8y,191,https://www.speedrun.com/sm64/run/yvpodr8y,2023-06-19T05:00:24Z,585.0,585.0,jo35yn7j,Luisito,Mexico,VC,Yes
+191,z0je66jy,192,https://www.speedrun.com/sm64/run/z0je66jy,2023-05-01T08:10:14Z,586.0,586.0,8geyv5pj,JakeMorris,United States,N64,Yes
+192,yj21o73m,192,https://www.speedrun.com/sm64/run/yj21o73m,2023-06-05T22:46:26Z,586.0,586.0,j4q1vpwx,shadowbear,Canada,N64,Yes
+193,z5pdrknm,194,https://www.speedrun.com/sm64/run/z5pdrknm,2023-06-15T18:26:51Z,594.0,594.0,8r2ngoqx,reallifebutters,United States,N64,Yes
+194,m79wxn9y,195,https://www.speedrun.com/sm64/run/m79wxn9y,2017-10-03T13:04:02Z,606.0,606.0,dx35v6ej,MrMeanMoustache,Netherlands,N64,Yes
+195,yl4v6pnm,196,https://www.speedrun.com/sm64/run/yl4v6pnm,2018-08-12T23:17:53Z,614.0,614.0,68wgmkvx,Busbyy,Northern Ireland,N64,Yes
+196,y998x1ky,196,https://www.speedrun.com/sm64/run/y998x1ky,2021-06-10T00:57:53Z,614.0,614.0,8ge9k0rj,ryompt,United States,EMU,Yes
+197,mrqv90dy,198,https://www.speedrun.com/sm64/run/mrqv90dy,2018-01-14T19:41:30Z,630.0,630.0,1xyo4enj,chlidlunk,France,VC,Yes
+198,jy9pdvm4,199,https://www.speedrun.com/sm64/run/jy9pdvm4,,635.0,635.0,,,,N64,Yes
+199,y21rj95z,200,https://www.speedrun.com/sm64/run/y21rj95z,2020-02-04T07:59:38Z,636.0,636.0,qj2l346x,TheSimplePotato,United States,EMU,Yes
+200,dy4n7qml,201,https://www.speedrun.com/sm64/run/dy4n7qml,,640.0,640.0,,,,EMU,Yes
+201,yvp2vw6y,202,https://www.speedrun.com/sm64/run/yvp2vw6y,2023-06-05T18:38:19Z,641.0,641.0,x3w377ej,AbUnderscored,Jordan,EMU,Yes
+202,mk09783z,203,https://www.speedrun.com/sm64/run/mk09783z,2023-05-08T02:03:55Z,642.0,642.0,j52myw6j,Mario104,China,EMU,Yes
+203,yvqkno6m,204,https://www.speedrun.com/sm64/run/yvqkno6m,2022-03-20T05:26:14Z,648.0,648.0,jn3kg62x,GregoTheGreatest,United States,N64,Yes
+204,yop36p7m,205,https://www.speedrun.com/sm64/run/yop36p7m,2022-05-03T18:35:36Z,655.0,655.0,xz79p1nj,tanepota,Japan,N64,Yes
+205,mrk7x62y,206,https://www.speedrun.com/sm64/run/mrk7x62y,2020-06-09T19:29:34Z,657.0,657.0,v81eydrj,Minelover,United States,EMU,Yes
+206,y2kg01wy,207,https://www.speedrun.com/sm64/run/y2kg01wy,2023-12-09T15:22:35Z,663.0,663.0,8lrkpl78,welfare_ninja,Canada,EMU,Yes
+207,nz1vngze,208,https://www.speedrun.com/sm64/run/nz1vngze,,664.0,664.0,,,,N64,No
+208,ywrjegnm,209,https://www.speedrun.com/sm64/run/ywrjegnm,2023-06-19T18:16:58Z,667.0,667.0,98rzr0gx,Shadow64,United Kingdom,N64,Yes
+209,z51179em,210,https://www.speedrun.com/sm64/run/z51179em,2018-06-25T20:13:34Z,669.0,669.0,18vr2m5x,GameShark,Netherlands,N64,Yes
+210,y6n47w6z,211,https://www.speedrun.com/sm64/run/y6n47w6z,2022-03-16T14:58:27Z,670.0,670.0,86nz1n0x,3DMan06,Germany,EMU,No
+211,yvpxwd6y,211,https://www.speedrun.com/sm64/run/yvpxwd6y,2023-07-29T09:12:07Z,670.0,670.0,8w1rr94x,sanj,Canada,EMU,Yes
+212,yw1w733z,213,https://www.speedrun.com/sm64/run/yw1w733z,2018-02-17T11:36:01Z,678.0,678.0,,,,N64,No
+213,1zqpv9ml,214,https://www.speedrun.com/sm64/run/1zqpv9ml,,681.0,681.0,v8lo348m,Pokeblok,New Zealand,EMU,Yes
+214,emko1vz6,215,https://www.speedrun.com/sm64/run/emko1vz6,,693.0,693.0,kjp6pz58,Gana64,Japan,N64,No
+215,z12e2pjy,215,https://www.speedrun.com/sm64/run/z12e2pjy,2022-03-24T09:37:44Z,693.0,693.0,8r7zwndj,Ayushman4321,India,EMU,Yes
+216,zq05dd1y,217,https://www.speedrun.com/sm64/run/zq05dd1y,2022-03-08T00:34:16Z,696.0,696.0,18q6w4wj,Waterbird165,United States,N64,Yes
+217,zn7669vm,217,https://www.speedrun.com/sm64/run/zn7669vm,2022-03-15T03:47:56Z,696.0,696.0,j0vkm73x,druz,United States,EMU,Yes
+218,yl6lo7ny,219,https://www.speedrun.com/sm64/run/yl6lo7ny,2023-07-16T10:44:33Z,704.0,704.0,j26ewg7x,Littlezombie,China,EMU,Yes
+219,mr1lj5dz,220,https://www.speedrun.com/sm64/run/mr1lj5dz,2021-06-07T21:40:40Z,720.0,720.0,8l0g37v8,niko22,Colombia,EMU,Yes
+220,6yj25p7m,221,https://www.speedrun.com/sm64/run/6yj25p7m,2016-06-11T15:51:30Z,722.0,722.0,qxk40p9j,Kiriplant,Australia,VC,Yes
+221,mk0ollxz,222,https://www.speedrun.com/sm64/run/mk0ollxz,2023-07-29T09:50:38Z,734.0,734.0,81qrwmpj,Aslan61,Germany,N64,Yes
+222,mk8nxr3m,223,https://www.speedrun.com/sm64/run/mk8nxr3m,2021-01-04T06:08:20Z,742.0,742.0,jmpl1doj,GnarlyBobMarley,United States,N64,No
+223,z051n58m,224,https://www.speedrun.com/sm64/run/z051n58m,2020-04-19T16:31:41Z,747.0,747.0,qxkz2mmx,simesaba0708,Japan,N64,Yes
+224,mrovw88m,225,https://www.speedrun.com/sm64/run/mrovw88m,2023-03-03T19:20:06Z,760.0,760.0,8w1de74x,aflyingcougar,United States,N64,Yes
+225,9mr0x2mq,226,https://www.speedrun.com/sm64/run/9mr0x2mq,,778.0,778.0,,,,N64,Yes
+226,m723dn9z,227,https://www.speedrun.com/sm64/run/m723dn9z,2023-02-22T11:48:21Z,787.0,787.0,x3349pqx,yuniruyuni,Japan,VC,Yes
+227,mrl623gm,228,https://www.speedrun.com/sm64/run/mrl623gm,2023-06-23T01:46:56Z,796.0,796.0,86vm37pj,sevenyoshi,United States,N64,Yes
+228,kz5pgkjm,229,https://www.speedrun.com/sm64/run/kz5pgkjm,2016-06-23T21:07:22Z,799.0,799.0,kj96o2nj,bluntslide42,United States,VC,Yes
+229,z1lr7egm,230,https://www.speedrun.com/sm64/run/z1lr7egm,2023-06-12T20:14:55Z,814.0,814.0,8q316z7j,dista,United States,N64,Yes
+230,y6qlpgpz,231,https://www.speedrun.com/sm64/run/y6qlpgpz,2023-09-24T20:57:45Z,815.0,815.0,81m4wnq8,LameOH,United States,EMU,Yes
+231,1zxjxqyx,232,https://www.speedrun.com/sm64/run/1zxjxqyx,,817.0,817.0,,,,N64,No
+232,y230r29m,233,https://www.speedrun.com/sm64/run/y230r29m,2017-10-09T22:46:21Z,825.0,825.0,7j4075l8,DFGBen,Germany,VC,Yes
+233,mrl4wg7m,234,https://www.speedrun.com/sm64/run/mrl4wg7m,2023-06-07T06:41:56Z,830.0,830.0,xy5g6zv8,Nation_LIVE,United States,N64,Yes
+234,zgedl2ny,235,https://www.speedrun.com/sm64/run/zgedl2ny,2023-06-23T04:28:12Z,857.0,857.0,j20qnrlx,MrFroggy,United States,EMU,Yes
+235,z0pjv4ey,236,https://www.speedrun.com/sm64/run/z0pjv4ey,2022-06-17T13:01:12Z,877.0,877.0,8en063p8,Prismatic_Fast,United States,EMU,Yes
+236,yjx7ngnz,237,https://www.speedrun.com/sm64/run/yjx7ngnz,2022-03-10T04:47:08Z,891.0,891.0,jp4y0g2j,ooferboi_69,United States,N64,Yes
+237,zx39x7ez,238,https://www.speedrun.com/sm64/run/zx39x7ez,2023-04-28T00:45:13Z,897.0,897.0,x3qm31kj,Arcanelous,North Macedonia,N64,Yes
+238,z0ok0oez,239,https://www.speedrun.com/sm64/run/z0ok0oez,2022-03-08T23:20:42Z,918.0,918.0,8gee7n7j,LxqZach,Germany,N64,Yes
+239,kz5lggyr,240,https://www.speedrun.com/sm64/run/kz5lggyr,,1041.0,1041.0,,,,N64,No
+240,y9861nkz,241,https://www.speedrun.com/sm64/run/y9861nkz,2023-07-06T07:40:28Z,1313.0,1313.0,jp4q645j,GoodGrieth,,N64,Yes
+241,zq79dprm,242,https://www.speedrun.com/sm64/run/zq79dprm,2022-06-04T22:53:04Z,1388.0,1388.0,0jmw6wex,Bombs,United States,N64,Yes
+242,0y6n316z,243,https://www.speedrun.com/sm64/run/0y6n316z,2016-01-03T07:24:11Z,1474.0,1474.0,zxz97kn8,Drogie,Switzerland,N64,Yes
+243,y48vvxdm,244,https://www.speedrun.com/sm64/run/y48vvxdm,2022-03-15T02:33:02Z,1481.0,1481.0,8qrldp7j,Amahumahaba,United States,N64,Yes
+244,mk0k4w3z,245,https://www.speedrun.com/sm64/run/mk0k4w3z,2023-06-25T10:17:59Z,1501.0,1501.0,8dw231lj,mdsnoopy,Chile,N64,Yes
+245,y8jn8gnz,246,https://www.speedrun.com/sm64/run/y8jn8gnz,2022-03-07T03:05:31Z,1508.0,1508.0,j03z503j,Taki,Canada,N64,No
+246,yw4jx19z,247,https://www.speedrun.com/sm64/run/yw4jx19z,2019-09-21T02:59:53Z,1576.0,1576.0,qj2rw3ox,iZePlayz,Germany,EMU,Yes
+247,y4kg0kkm,248,https://www.speedrun.com/sm64/run/y4kg0kkm,2023-12-04T12:09:21Z,2110.0,2110.0,8l35dzl8,KalasLawliet,France,N64,Yes
+248,zxl5e7qz,249,https://www.speedrun.com/sm64/run/zxl5e7qz,2022-03-10T05:53:48Z,2368.0,2368.0,j92zg478,Bailey_sm64,United States,N64,Yes
+249,mk0gn81z,250,https://www.speedrun.com/sm64/run/mk0gn81z,2023-06-13T02:58:50Z,2600.0,2600.0,7j4975w8,mashSRL,Germany,N64,Yes
+250,y4gp7w3y,251,https://www.speedrun.com/sm64/run/y4gp7w3y,2023-04-18T17:01:46Z,2706.0,2706.0,qxk59y7x,KingToad64,France,EMU,No
+251,me3elj9z,252,https://www.speedrun.com/sm64/run/me3elj9z,2022-06-09T20:50:07Z,2863.0,2863.0,j5vgmmg8,Hendyman,Germany,EMU,Yes
+252,y9lwvwny,253,https://www.speedrun.com/sm64/run/y9lwvwny,2022-03-07T03:08:25Z,2969.0,2969.0,1xyky4n8,thags15,United States,N64,Yes
+253,y60x381y,254,https://www.speedrun.com/sm64/run/y60x381y,2022-06-02T04:20:23Z,3877.0,3877.0,kjpoery8,Falcon,Canada,N64,Yes
+254,ydgxv7qy,255,https://www.speedrun.com/sm64/run/ydgxv7qy,2023-04-08T14:45:58Z,4368.0,4368.0,zxzpmmnj,MiT_Epona,South Korea,N64,Yes
+255,z11970jz,256,https://www.speedrun.com/sm64/run/z11970jz,2019-01-19T00:37:39Z,4469.0,4469.0,zxznzp0x,SmallAnt,Canada,N64,Yes
+256,m722564z,257,https://www.speedrun.com/sm64/run/m722564z,2023-02-10T20:21:34Z,5265.0,5265.0,j0n10kw8,jaquarium,United States,N64,Yes
+257,m362v0dm,258,https://www.speedrun.com/sm64/run/m362v0dm,2022-03-09T00:49:43Z,6545.0,6545.0,1xy1oozx,ringo792,United States,N64,Yes
+258,m33lv24m,259,https://www.speedrun.com/sm64/run/m33lv24m,2022-06-11T00:58:41Z,8827.0,8827.0,j4rlpz58,Gloupi,Switzerland,VC,Yes
