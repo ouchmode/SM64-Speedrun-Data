@@ -1,0 +1,6 @@
+# Ignore Jupyter Notebook's "checkpoints" folder.
+./.ipynb_checkpoints
+
+
+# Ignore DB files
+*.db
