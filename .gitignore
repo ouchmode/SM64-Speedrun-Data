@@ -1,6 +1,9 @@
 # Ignore Jupyter Notebook's "checkpoints" folder.
-SM64_Speedruns/SM64-Speedrun-Data/.ipynb_checkpoints/
+./.ipynb_checkpoints/
 
 
 # Ignore DB files
-SM64-Speedrun-Data/*.db
+./*.db
+
+# Ignore the ALL_CATEGORIES.csv file (for now)
+./Data/ALL_CATEGORIES.csv
