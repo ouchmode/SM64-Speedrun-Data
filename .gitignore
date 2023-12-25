@@ -1,9 +1,9 @@
 # Ignore Jupyter Notebook's "checkpoints" folder.
-./.ipynb_checkpoints/
+.ipynb_checkpoints/
 
 
 # Ignore DB files
-./*.db
+*.db
 
 # Ignore the ALL_CATEGORIES.csv file (for now)
-./Data/ALL_CATEGORIES.csv
+Data/ALL_CATEGORIES.csv
