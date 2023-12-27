@@ -1,4 +1,4 @@
-# SM64 Speedruns - A SQL and Python Test For Fun
+# SM64 Speedruns - A SQL and Python Project
 ** Ignore any redundant / unnecessary comments, they're mainly just notes for me because I am a noob :]
 
 Learning Python for data analysis / science and wanted to test what I've learned so far on a personal project using a dataset from Kaggle. (https://www.kaggle.com/code/mcpenguin/super-mario-64-speedruns-data-collection) This dataset
